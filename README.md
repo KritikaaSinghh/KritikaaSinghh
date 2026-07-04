@@ -13,13 +13,24 @@
 
 ## 🚀 Tech Stack
 
+## 🚀 Tech Stack
+
 - ☕ Java
 - 🌱 Spring Boot
-- 🗄️ SQL
+- 🍃 Spring Framework
+- 🔗 REST APIs
+- 🐬 MySQL
+- 🍃 MongoDB
 - 🌐 HTML
 - 🎨 CSS
 - ⚡ JavaScript
-- 🔧 Git & GitHub
+- 📦 Git & GitHub
+- 🖥️ IntelliJ IDEA
+- 🔄 JDBC
+- 🧩 OOPs
+- 📚 Collection Framework
+- ⚙️ Multithreading
+- 🧠 Data Structures & Algorithms (DSA)
 
 ---
 
