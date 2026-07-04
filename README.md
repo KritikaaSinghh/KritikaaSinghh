@@ -13,8 +13,6 @@
 
 ## 🚀 Tech Stack
 
-## 🚀 Tech Stack
-
 - ☕ Java
 - 🌱 Spring Boot
 - 🍃 Spring Framework
