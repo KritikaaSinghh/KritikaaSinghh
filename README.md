@@ -31,10 +31,12 @@
 - 🧠 Data Structures & Algorithms (DSA)
 
 ---
-
 ## 📌 Featured Projects
 
-🔹 [Sorting Visualizer](https://kritikaasinghh.github.io/Sorting-Visualizer/)
+🔹 [Kritika URL Shortener](https://github.com/KritikaaSinghh/kritika-url-shortener)  
+A full-stack URL Shortener built with Spring Boot, Spring Security, PostgreSQL, Flyway, Thymeleaf, Docker and Railway deployment.
+
+🔹 [Sorting Visualizer](https://github.com/KritikaaSinghh/Sorting-Visualizer)
 
 🔹 Java Pattern Programs
 
