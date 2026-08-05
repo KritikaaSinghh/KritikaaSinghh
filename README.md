@@ -1,13 +1,9 @@
 # Hi 👋, I'm Kritika Singh
 
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Software Developer</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KritikaaSinghh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Developer;Java+Developer;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG"/>
 </p>
 
 ---
@@ -17,7 +13,7 @@
 - 🎓 B.Tech in Computer Science Engineering (MIET)
 - 💻 Passionate about Java, Backend Development & Problem Solving
 - 🌱 Currently learning **Spring Boot, Microservices & Backend Development**
-- 🚀 Love building real-world software projects
+- 🚀 Love building real-world software applications
 - 📚 Continuously improving my DSA & Problem Solving skills
 
 ---
@@ -76,7 +72,7 @@ A secure URL Shortener built using **Spring Boot, Spring Security, PostgreSQL, F
 
 🔗 https://github.com/KritikaaSinghh/Sorting-Visualizer
 
-Interactive visualization of popular sorting algorithms using HTML, CSS & JavaScript.
+Interactive visualization of popular sorting algorithms using **HTML, CSS & JavaScript**.
 
 ---
 
@@ -96,7 +92,7 @@ Java pattern and logic-building programs for interview preparation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kritika%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika8070)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhkritika8449@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-singhkritika8449%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhkritika8449@gmail.com)
 
 ---
 
