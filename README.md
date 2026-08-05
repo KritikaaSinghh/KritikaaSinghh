@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kritika Singh
+##🌼  Hey there! Welcome to my GitHub, I'm Kritika Singh
 
 <h1 align="center">Software Developer</h1>
 
