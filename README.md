@@ -2,8 +2,12 @@
 
 <h1 align="center">Software Developer</h1>
 
+<h3 align="center">
+Java • Spring Boot • Backend Development • Problem Solving
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG"/>
 </p>
 
 ---
@@ -11,14 +15,14 @@
 # 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science Engineering (MIET)
-- 💻 Passionate about Java, Backend Development & Problem Solving
+- 💻 Passionate about Java, Backend Development & Software Engineering
 - 🌱 Currently learning **Spring Boot, Microservices & Backend Development**
-- 🚀 Love building real-world software applications
+- 🚀 Building real-world backend applications
 - 📚 Continuously improving my DSA & Problem Solving skills
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 ### 💻 Languages
 
@@ -52,13 +56,14 @@
 
 # 📌 Featured Projects
 
-## 🔹 Kritika URL Shortener
+## 🚀 Kritika URL Shortener
 
-🔗 https://github.com/KritikaaSinghh/kritika-url-shortener
+🔗 **Repository:**  
+https://github.com/KritikaaSinghh/kritika-url-shortener
 
-A secure URL Shortener built using **Spring Boot, Spring Security, PostgreSQL, Flyway, Thymeleaf and Docker.**
+A secure URL Shortener built using **Spring Boot, Spring Security, PostgreSQL, Flyway, Thymeleaf & Docker**.
 
-### Features
+### ✨ Features
 
 - 🔐 Authentication & Authorization
 - 🔗 URL Shortening
@@ -68,17 +73,18 @@ A secure URL Shortener built using **Spring Boot, Spring Security, PostgreSQL, F
 
 ---
 
-## 🔹 Sorting Visualizer
+## 📊 Sorting Visualizer
 
-🔗 https://github.com/KritikaaSinghh/Sorting-Visualizer
+🔗 **Repository:**  
+https://github.com/KritikaaSinghh/Sorting-Visualizer
 
 Interactive visualization of popular sorting algorithms using **HTML, CSS & JavaScript**.
 
 ---
 
-## 🔹 Java Pattern Programs
+## ☕ Java Pattern Programs
 
-Java pattern and logic-building programs for interview preparation.
+A collection of Java pattern and logic-building programs for interview preparation.
 
 ---
 
@@ -90,10 +96,16 @@ Java pattern and logic-building programs for interview preparation.
 
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kritika%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika8070)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kritika%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika8070)
 
 [![Gmail](https://img.shields.io/badge/Gmail-singhkritika8449%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhkritika8449@gmail.com)
 
 ---
 
-<h3 align="center">⭐ Turning ideas into scalable backend applications. ⭐</h3>
+<h3 align="center">
+💙 "Turning ideas into real-world software, one project at a time."
+</h3>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
