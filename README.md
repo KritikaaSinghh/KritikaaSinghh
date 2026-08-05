@@ -7,7 +7,7 @@ Java • Spring Boot • Backend Development • Problem Solving
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Developer;Java+Developer;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,10 +15,10 @@ Java • Spring Boot • Backend Development • Problem Solving
 # 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science Engineering (MIET)
-- 💻 Passionate about Java, Backend Development & Software Engineering
-- 🌱 Currently learning **Spring Boot, Microservices & Backend Development**
-- 🚀 Building real-world backend applications
-- 📚 Continuously improving my DSA & Problem Solving skills
+- 💻 Software Developer passionate about Java and Backend Development
+- 🌱 Currently learning **Spring Boot & Microservices**
+- 🚀 Building scalable backend applications
+- 📚 Solving DSA problems and continuously improving my skills
 
 ---
 
@@ -28,9 +28,9 @@ Java • Spring Boot • Backend Development • Problem Solving
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Backend
 
@@ -61,11 +61,11 @@ Java • Spring Boot • Backend Development • Problem Solving
 🔗 **Repository:**  
 https://github.com/KritikaaSinghh/kritika-url-shortener
 
-A secure URL Shortener built using **Spring Boot, Spring Security, PostgreSQL, Flyway, Thymeleaf & Docker**.
+A secure URL Shortener built using **Spring Boot, Spring Security, PostgreSQL, Flyway, Thymeleaf & Docker.**
 
-### ✨ Features
+### ✨ Key Features
 
-- 🔐 Authentication & Authorization
+- 🔐 User Authentication & Authorization
 - 🔗 URL Shortening
 - ✨ Custom Short URLs
 - 📊 Click Analytics
@@ -78,19 +78,24 @@ A secure URL Shortener built using **Spring Boot, Spring Security, PostgreSQL, F
 🔗 **Repository:**  
 https://github.com/KritikaaSinghh/Sorting-Visualizer
 
-Interactive visualization of popular sorting algorithms using **HTML, CSS & JavaScript**.
+Interactive visualization of popular sorting algorithms built using **HTML, CSS & JavaScript**.
 
 ---
 
 ## ☕ Java Pattern Programs
 
-A collection of Java pattern and logic-building programs for interview preparation.
+🔗 **Repository:**  
+https://github.com/KritikaaSinghh/Java-Pattern-Programs
 
----
+A collection of Java pattern and logic-building programs for coding practice and interview preparation.
 
-# 📈 GitHub Activity
+### ✨ Includes
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KritikaaSinghh&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- ⭐ Star Patterns
+- 🔢 Number Patterns
+- 🔤 Alphabet Patterns
+- 🔄 Nested Loop Programs
+- 💡 Logic Building Exercises
 
 ---
 
@@ -103,7 +108,7 @@ A collection of Java pattern and logic-building programs for interview preparati
 ---
 
 <h3 align="center">
-💙 "Turning ideas into real-world software, one project at a time."
+💙 Turning ideas into real-world software, one project at a time.
 </h3>
 
 <h3 align="center">
