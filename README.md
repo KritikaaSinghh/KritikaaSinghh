@@ -1,5 +1,6 @@
-##🌼  Hey there! Welcome to my GitHub, I'm Kritika Singh
+<h1 align="center">🌼 Hey there! Welcome to my GitHub</h1>
 
+<h2 align="center">I'm Kritika Singh 👩🏻‍💻</h2>
 <h1 align="center">Software Developer</h1>
 
 <h3 align="center">
