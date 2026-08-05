@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kritika Singh
 
-### 💻 Software Developer | Java Backend Developer | Spring Boot
+### 💻 Software Developer 
 
 
 🎓 B.Tech in Computer Science Engineering (MIET)
