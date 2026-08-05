@@ -1,57 +1,109 @@
 # Hi 👋, I'm Kritika Singh
 
-### 💻 Software Developer 
-
+## 💻 Software Developer
 
 🎓 B.Tech in Computer Science Engineering (MIET)
 
-🌱 Currently Learning **Spring Boot & Backend Development**
+🌱 Currently learning **Spring Boot, Microservices & Backend Development**
 
-💡 Passionate about Java, Problem Solving and Building Real-World Projects.
+💡 Passionate about building scalable backend applications, solving DSA problems, and developing real-world software using Java.
 
 ---
 
 ## 🚀 Tech Stack
 
+### Languages
 - ☕ Java
-- 🌱 Spring Boot
-- 🍃 Spring Framework
-- 🔗 REST APIs
-- 🐬 MySQL
-- 🍃 MongoDB
 - 🌐 HTML
 - 🎨 CSS
 - ⚡ JavaScript
+- 🐬 SQL
+
+### Backend
+- 🌱 Spring Boot
+- 🍃 Spring Framework
+- 🔗 REST APIs
+- 🔄 JDBC
+- 🔐 Spring Security
+
+### Databases
+- 🐘 PostgreSQL
+- 🐬 MySQL
+- 🍃 MongoDB
+
+### Tools & Technologies
 - 📦 Git & GitHub
 - 🖥️ IntelliJ IDEA
-- 🔄 JDBC
-- 🧩 OOPs
+- 🐳 Docker
+- 🔄 Flyway
+- 🌿 Thymeleaf
+
+### Core CS
+- 🧩 Object-Oriented Programming (OOP)
 - 📚 Collection Framework
 - ⚙️ Multithreading
 - 🧠 Data Structures & Algorithms (DSA)
+- 🗄️ DBMS
+- 💻 Operating System
+- 🌐 Computer Networks
 
 ---
-## 📌 Featured Projects
 
-🔹 [Kritika URL Shortener](https://github.com/KritikaaSinghh/kritika-url-shortener)  
-A full-stack URL Shortener built with Spring Boot, Spring Security, PostgreSQL, Flyway, Thymeleaf, Docker and Railway deployment.
+# 📌 Featured Projects
 
-🔹 [Sorting Visualizer](https://github.com/KritikaaSinghh/Sorting-Visualizer)
+### 🔹 Kritika URL Shortener
+🔗 https://github.com/KritikaaSinghh/kritika-url-shortener
 
-🔹 Java Pattern Programs
+A full-stack URL Shortener built using **Spring Boot, Spring Security, PostgreSQL, Flyway, Thymeleaf, and Docker**.
 
+### ✨ Features
+- User Authentication & Authorization
+- URL Shortening
+- Custom Short URLs
+- Click Analytics
+- Responsive UI
+- Dockerized Application
 
+---
+
+### 🔹 Sorting Visualizer
+🔗 https://github.com/KritikaaSinghh/Sorting-Visualizer
+
+An interactive visualization of popular sorting algorithms using HTML, CSS, and JavaScript.
+
+### Algorithms Included
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+
+---
+
+### 🔹 Java Pattern Programs
+
+A collection of Java pattern and logic-building programs for interview preparation.
+
+---
+
+## 📊 GitHub Stats
+
+![Kritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaaSinghh&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KritikaaSinghh&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn:
-www.linkedin.com/in/kritika8070
+💼 LinkedIn  
+https://www.linkedin.com/in/kritika8070
 
-📧 Email:
+📧 Email  
 singhkritika8449@gmail.com
 
 ---
 
-⭐ Always learning, building and improving.
+⭐ Always learning, building, and improving one project at a time.
