@@ -1,16 +1,16 @@
-<h1 align="center">🌼 Hey there! Welcome to my GitHub</h1>
+<h1 align="center">🌸 Hey there! Welcome to my GitHub</h1>
 
 <h2 align="center">I'm Kritika Singh 👩🏻‍💻</h2>
+
 <h1 align="center">Software Developer</h1>
 
-<h3 align="center">
-Java • Spring Boot • Backend Development • Problem Solving
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Developer;Java+Developer;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <strong>Java • Spring Boot • Backend Development • Problem Solving</strong>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Technologies" />
+</p>
 ---
 
 # 👩‍💻 About Me
