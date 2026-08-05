@@ -1,8 +1,8 @@
-<h1 align="center">🌸 Welcome to my GitHub!</h1>
+<h2 align="center">🌼 Hie there! Welcome to my GitHub!</h2>
 
-<h1 align="center">I'm Kritika Singh 👩🏻‍💻</h1>
+<h1 align="center">👩🏻‍💻 I'm Kritika Singh</h1>
 
-<h1 align="center">Software Developer</h1>
+<h1 align="center">💻 Software Developer</h1>
 
 <h3 align="center">
 Java • Spring Boot • Backend Development • Problem Solving
