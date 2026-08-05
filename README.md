@@ -78,7 +78,16 @@ A secure URL Shortener built using **Spring Boot, Spring Security, PostgreSQL, F
 🔗 **Repository:**  
 https://github.com/KritikaaSinghh/Sorting-Visualizer
 
-Interactive visualization of popular sorting algorithms built using **HTML, CSS & JavaScript**.
+Interactive visualization of sorting algorithms built using **HTML, CSS & JavaScript**.
+
+### ✨ Key Features
+
+- 📊 Sorting Visualization
+- ⚡ Adjustable Speed
+- 🔄 Multiple Sorting Algorithms
+- 🎨 Interactive UI
+- 📱 Responsive Design
+
 
 ---
 
