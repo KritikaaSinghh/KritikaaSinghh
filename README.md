@@ -99,6 +99,8 @@ A collection of Java pattern and logic-building programs for coding practice and
 
 ---
 
+---
+
 # 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kritika%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika8070)
