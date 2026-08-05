@@ -38,6 +38,13 @@ Java • Spring Boot • Backend Development • Problem Solving
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### 📖 Core Concepts
+
+![OOP](https://img.shields.io/badge/OOPs-007396?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-00599C?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
 
 ### 🗄️ Databases
 
