@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kritika Singh
 
-<h3 align="center"> Software Developer | Spring Boot Enthusiast</h3>
+<h3 align="center"> Software Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KritikaaSinghh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -84,39 +84,6 @@ Interactive visualization of popular sorting algorithms using **HTML, CSS & Java
 
 Java pattern and logic-building programs for interview preparation.
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaaSinghh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=KritikaaSinghh&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KritikaaSinghh&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Kritika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KritikaaSinghh&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
