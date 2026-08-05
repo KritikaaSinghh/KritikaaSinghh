@@ -84,15 +84,6 @@ An interactive visualization of popular sorting algorithms using HTML, CSS, and 
 
 A collection of Java pattern and logic-building programs for interview preparation.
 
----
-
-## 📊 GitHub Stats
-
-![Kritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaaSinghh&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KritikaaSinghh&theme=tokyonight)
 
 ---
 
