@@ -114,6 +114,28 @@ A collection of Java pattern and logic-building programs for coding practice and
 - 💡 Logic Building Exercises
 
 ---
+## 🧮 BasicMaths-Java
+
+🔗 **Repository:**
+https://github.com/KritikaaSinghh/BasicMaths-Java
+
+A collection of basic mathematical and logic-building programs implemented in Java for programming practice and interview preparation.
+
+### ✨ Includes
+
+* 🔢 Armstrong Number
+* 🔢 Count Numbers
+* ➗ GCD (Greatest Common Divisor)
+* ➗ LCM (Least Common Multiple)
+* 🔄 Palindrome Number
+* ⭐ Perfect Number
+* 🔍 Prime Number
+* 📋 Print All Prime Numbers
+* 🔢 Print Numbers
+* 🔄 Reverse Number
+* ➕ Sum of Digits
+
+**Technologies:** Java • IntelliJ IDEA • Git • GitHub
 
 ---
 
