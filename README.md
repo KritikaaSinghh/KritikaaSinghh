@@ -138,21 +138,22 @@ A collection of basic mathematical and logic-building programs implemented in Ja
 **Technologies:** Java • IntelliJ IDEA • Git • GitHub
 
 ---
-🧩 Classes-Objects-Constructors
+## 🧩 Classes-Objects-Constructors
 
-🔗 Repository:
+🔗 **Repository:**
 https://github.com/KritikaaSinghh/Classes-Objects-Constructors
 
-A Java project focused on understanding Classes, Objects, and Constructors through practical examples.
+A Java project focused on understanding **Classes, Objects, and Constructors** through practical examples.
 
-✨ Includes
+✨ **Includes**
 
-🏗️ Classes & Objects
-🔹 Default Constructor
-🔹 Parameterized Constructor
-🔄 Copy Constructor
-📚 Methods / Behaviours
-💡 Object Initialization
+* 🏗️ Classes & Objects
+* 🔹 Default Constructor
+* 🔹 Parameterized Constructor
+* 🔄 Copy Constructor
+* 📚 Methods / Behaviours
+* 💡 Object Initialization
+
 
 # 📫 Connect With Me
 
