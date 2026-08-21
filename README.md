@@ -155,6 +155,27 @@ A Java project focused on understanding **Classes, Objects, and Constructors** t
 * 💡 Object Initialization
 
 
+## 🧩 Object-Oriented Programming (OOPs)
+
+🔗 **Repository:** https://github.com/KritikaaSinghh/Object-Oriented-Programming-OOPs
+
+A Java project focused on understanding the core principles of **Object-Oriented Programming (OOPs)** through practical examples.
+
+✨ **Includes**
+
+* 🔷 **Abstraction**
+* 🔷 **Encapsulation**
+* 🔷 **Inheritance**
+* 🔷 **Polymorphism**
+* 🔷 Interfaces
+* 🔷 Upcasting
+* 🔷 Method Overloading
+* 🔷 Method Overriding
+* 🔷 Getters & Setters
+* 🔷 Types of Inheritance
+
+**Technologies:** Java • IntelliJ IDEA • Git • GitHub
+
 # 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kritika%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika8070)
