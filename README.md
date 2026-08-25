@@ -12,6 +12,10 @@ Java • Spring Boot • Backend Development • Problem Solving
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Developer;Java+Developer;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Technologies" />
 </p>
 
+### 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kritikaasinghh.github.io/)
+
 # 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science Engineering (MIET)
