@@ -1,197 +1,205 @@
-<h2 align="center">🌼 Hello there! Welcome to my GitHub!</h2>
+<div align="center">
 
-<h1 align="center">👩🏻‍💻 I'm Kritika Singh</h1>
+# 👩🏻‍💻 Hi, I'm Kritika Singh
 
-<h1 align="center">💻 Software Developer</h1>
+### 💻 Java Developer • Backend Developer • Software Developer
 
-<h3 align="center">
-Java • Spring Boot • Backend Development • Problem Solving
-</h3>
+**Building real-world applications with Java & Spring Boot 🚀**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Developer;Java+Developer;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Technologies" />
-</p>
+<br>
 
-### 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge)](https://kritikaasinghh.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kritika8070)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:singhkritika8449@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kritikaasinghh.github.io/)
+<br>
 
-# 👩‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;Problem+Solver;Always+Learning+%F0%9F%9A%80" />
 
-- 🎓 B.Tech in Computer Science Engineering (MIET)
-- 💻 Software Developer passionate about Java and Backend Development
-- 🌱 Currently learning **Spring Boot & Microservices**
-- 🚀 Building scalable backend applications
-- 📚 Solving DSA problems and continuously improving my skills
+</div>
 
 ---
 
-# 🚀 Tech Stack
+## `~/whoami`
+
+```java
+public class KritikaSingh {
+
+    String degree = "B.Tech CSE @ MIET";
+    String primaryLanguage = "Java";
+    String focus = "Backend Development";
+    String currentlyLearning = "Spring Boot & Microservices";
+
+    String[] interests = {
+        "Software Development",
+        "DSA & Problem Solving",
+        "Backend Engineering",
+        "Building Real-World Projects"
+    };
+}
+```
+
+---
+
+## 🚀 What I'm Working On
+
+* ☕ Strengthening my **Java & DSA** skills
+* 🌱 Learning **Spring Boot & Microservices**
+* 🔐 Building secure **REST APIs & backend applications**
+* 🧩 Improving my **problem-solving & OOP concepts**
+* 🚀 Creating projects that solve real-world problems
+
+---
+
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate" />
+</p>
 
-### 📖 Core Concepts
+`Spring Boot` • `Spring Security` • `REST APIs` • `JDBC`
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea" />
+</p>
+
+---
+
+## 🧠 Core Concepts
+
+<p align="center">
 
 ![OOP](https://img.shields.io/badge/OOPs-007396?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/DSA-00599C?style=for-the-badge)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge)
 
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+</p>
 
 ---
 
-# 📌 Featured Projects
+# ⭐ Featured Projects
 
-## 🚀 Kritika URL Shortener
+### 🚀 Kritika URL Shortener
 
-🔗 **Repository:**  
-https://github.com/KritikaaSinghh/kritika-url-shortener
+**Spring Boot • Spring Security • PostgreSQL • Flyway • Thymeleaf • Docker**
 
-A secure URL Shortener built using **Spring Boot, Spring Security, PostgreSQL, Flyway, Thymeleaf & Docker.**
+A secure URL shortening application with authentication, custom URLs and click analytics.
 
-### ✨ Key Features
+**Features**
 
-- 🔐 User Authentication & Authorization
-- 🔗 URL Shortening
-- ✨ Custom Short URLs
-- 📊 Click Analytics
-- 📱 Responsive UI
+`🔐 Authentication` `🔗 URL Shortening` `✨ Custom URLs` `📊 Analytics` `🐳 Docker`
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge\&logo=github)](https://github.com/KritikaaSinghh/kritika-url-shortener)
 
 ---
 
-## 📊 Sorting Visualizer
+### 📊 Sorting Visualizer
 
-🔗 **Repository:**  
-https://github.com/KritikaaSinghh/Sorting-Visualizer
+**HTML • CSS • JavaScript**
 
-Interactive visualization of sorting algorithms built using **HTML, CSS & JavaScript**.
+An interactive visualization tool for understanding and comparing sorting algorithms.
 
-### ✨ Key Features
+**Features**
 
-- 📊 Sorting Visualization
-- ⚡ Adjustable Speed
-- 🔄 Multiple Sorting Algorithms
-- 🎨 Interactive UI
-- 📱 Responsive Design
+`📊 Visualization` `⚡ Speed Control` `🔄 Multiple Algorithms` `🎨 Interactive UI`
 
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge\&logo=github)](https://github.com/KritikaaSinghh/Sorting-Visualizer)
 
 ---
 
-## ☕ Java Pattern Programs
+### ☕ Java Pattern Programs
 
-🔗 **Repository:**  
-https://github.com/KritikaaSinghh/Java-Pattern-Programs
+**Java • Loops • Logic Building**
 
-A collection of Java pattern and logic-building programs for coding practice and interview preparation.
+A collection of Java pattern programs created for strengthening programming fundamentals and interview preparation.
 
-### ✨ Includes
+`⭐ Star Patterns` `🔢 Number Patterns` `🔤 Alphabet Patterns` `💡 Logic Building`
 
-- ⭐ Star Patterns
-- 🔢 Number Patterns
-- 🔤 Alphabet Patterns
-- 🔄 Nested Loop Programs
-- 💡 Logic Building Exercises
-
----
-## 🧮 BasicMaths-Java
-
-🔗 **Repository:**
-https://github.com/KritikaaSinghh/BasicMaths-Java
-
-A collection of basic mathematical and logic-building programs implemented in Java for programming practice and interview preparation.
-
-### ✨ Includes
-
-* 🔢 Armstrong Number
-* 🔢 Count Numbers
-* ➗ GCD (Greatest Common Divisor)
-* ➗ LCM (Least Common Multiple)
-* 🔄 Palindrome Number
-* ⭐ Perfect Number
-* 🔍 Prime Number
-* 📋 Print All Prime Numbers
-* 🔢 Print Numbers
-* 🔄 Reverse Number
-* ➕ Sum of Digits
-
-**Technologies:** Java • IntelliJ IDEA • Git • GitHub
-
----
-## 🧩 Classes-Objects-Constructors
-
-🔗 **Repository:**
-https://github.com/KritikaaSinghh/Classes-Objects-Constructors
-
-A Java project focused on understanding **Classes, Objects, and Constructors** through practical examples.
-
-✨ **Includes**
-
-* 🏗️ Classes & Objects
-* 🔹 Default Constructor
-* 🔹 Parameterized Constructor
-* 🔄 Copy Constructor
-* 📚 Methods / Behaviours
-* 💡 Object Initialization
-
-
-## 🧩 Object-Oriented Programming (OOPs)
-
-🔗 **Repository:** https://github.com/KritikaaSinghh/Object-Oriented-Programming-OOPs
-
-A Java project focused on understanding the core principles of **Object-Oriented Programming (OOPs)** through practical examples.
-
-✨ **Includes**
-
-* 🔷 **Abstraction**
-* 🔷 **Encapsulation**
-* 🔷 **Inheritance**
-* 🔷 **Polymorphism**
-* 🔷 Interfaces
-* 🔷 Upcasting
-* 🔷 Method Overloading
-* 🔷 Method Overriding
-* 🔷 Getters & Setters
-* 🔷 Types of Inheritance
-
-**Technologies:** Java • IntelliJ IDEA • Git • GitHub
-
-# 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kritika%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika8070)
-
-[![Gmail](https://img.shields.io/badge/Gmail-singhkritika8449%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhkritika8449@gmail.com)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge\&logo=github)](https://github.com/KritikaaSinghh/Java-Pattern-Programs)
 
 ---
 
-<h3 align="center">
-💙 Turning ideas into real-world software, one project at a time.
-</h3>
+### 🧩 Object-Oriented Programming
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+**Java • OOP • Core Concepts**
+
+Practical Java examples covering the fundamental principles of Object-Oriented Programming.
+
+`Abstraction` `Encapsulation` `Inheritance` `Polymorphism` `Interfaces`
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge\&logo=github)](https://github.com/KritikaaSinghh/Object-Oriented-Programming-OOPs)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaaSinghh&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KritikaaSinghh&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 📈 My GitHub Journey
+
+<div align="center">
+
+**Learning → Building → Improving → Repeating 🔁**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=KritikaaSinghh&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Turning ideas into real-world software, one project at a time.
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
