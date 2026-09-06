@@ -205,7 +205,7 @@ A collection of mathematical and logic-building programs implemented in Java.
 
 ### `~/ contribution calendar`
 
-<img src="./profile-3d-contrib/profile-green.svg" width="100%" />
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
 
 <br>
 
