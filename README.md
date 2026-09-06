@@ -240,7 +240,7 @@ Turning ideas into practical applications that solve real problems.
 ### `Every contribution tells a story. 🚀`
 
 </div>
----
+
 
 # 🐍 Contribution Activity
 
