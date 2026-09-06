@@ -219,29 +219,25 @@ Turning ideas into practical applications that solve real problems.
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=777777&bg_color=00000000"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KritikaaSinghh&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
-
-</div>
-
----
-
 # 🧊 3D Contribution Calendar
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+### 💜 My Coding Journey in 3D 💜
 
-<br>
+<img src="./profile-3d-contrib/profile-purple-animate.svg" width="100%"/>
 
-### `Consistency builds results.`
+<br><br>
+
+<img src="https://img.shields.io/badge/💜%20Code-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💙%20Build-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💚%20Learn-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💛%20Grow-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🩷%20Create-EC4899?style=for-the-badge"/>
+
+<br><br>
+
+### `Every contribution tells a story. 🚀`
 
 </div>
 
@@ -345,9 +341,9 @@ Grow as a Backend Developer
 
 ### `Learn → Build → Break → Debug → Improve → Repeat 🔁`
 
-**Every bug is a lesson.  
-Every project is progress.  
-Every day is a chance to get better. 🚀**
+**Every bug is a lesson.**  
+**Every project is progress.**  
+**Every day is a chance to get better. 🚀**
 
 </div>
 
