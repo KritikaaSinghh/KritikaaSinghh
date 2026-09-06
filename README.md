@@ -187,17 +187,6 @@ A collection of mathematical and logic-building programs implemented in Java.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaaSinghh&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 # 🧊 3D Contribution Calendar
 
