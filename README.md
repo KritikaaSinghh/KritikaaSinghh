@@ -258,10 +258,6 @@ Turning ideas into practical applications that solve real problems.
 
 ### `Learning → Building → Improving → Repeating 🔁`
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=KritikaaSinghh&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
-
 </div>
 
 ---
