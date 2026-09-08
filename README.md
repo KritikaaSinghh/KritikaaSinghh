@@ -177,6 +177,40 @@ Turning ideas into practical applications that solve real problems.
 
 ---
 
+## ☕ Java Collection Framework
+
+> Hands-on Java practice covering the Collection Framework, collection methods, sorting and comparison techniques.
+
+**Tech:** `Java` `Collections Framework` `Comparable` `Comparator` `Lambda Expressions`
+
+### ✨ Topics Covered
+
+- 📋 ArrayList
+- 🔗 LinkedList
+- 📦 Vector
+- 🥞 Stack
+- 🚶 Queue
+- ⚡ PriorityQueue
+- ↔️ Deque
+- 🔷 HashSet
+- 🔷 LinkedHashSet
+- 🌳 TreeSet
+- 🔢 EnumSet
+- 🗺️ HashMap
+- 🗺️ LinkedHashMap
+- 🌳 TreeMap
+- 🔄 Comparable & Comparator
+- ⚡ Lambda Expressions
+- 🔢 Arrays.sort()
+- 📚 Collections.sort()
+- 🔽 Comparator.reverseOrder()
+
+<a href="https://github.com/KritikaaSinghh/Java-Collection-Framework">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
 ## ☕ Java Pattern Programs
 
 > Java programs focused on logic building and programming fundamentals.
@@ -241,6 +275,7 @@ Turning ideas into practical applications that solve real problems.
 
 </div>
 
+---
 
 # 🐍 Contribution Activity
 
