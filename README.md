@@ -137,6 +137,35 @@ Turning ideas into practical applications that solve real problems.
 
 # ⭐ Featured Projects
 
+---
+
+## 🤖 AI Career Copilot
+
+> An AI-powered career intelligence platform built with Java and Spring Boot that helps candidates analyze resumes, chat with resume data, match job descriptions, identify skill gaps, practice technical interviews, and generate personalized career roadmaps.
+
+**Tech:** `Java` `Spring Boot` `Spring AI` `RAG` `Ollama` `PostgreSQL` `PGVector` `Docker`
+
+### ✨ Features
+
+- 📄 Resume PDF ingestion and processing
+- 💬 RAG-powered resume chat
+- 📊 AI resume analysis with ATS-focused feedback
+- 🎯 Resume-to-job matching with match score
+- 🧠 Skill gap analysis and learning recommendations
+- 🎤 Technical interview question generation and evaluation
+- 🗺️ Personalized 90-day career roadmap
+- 🔒 Local AI inference using Ollama
+
+### 🧠 AI Architecture
+
+**PDF Resume → Text Extraction → Chunking → Embeddings → PGVector → Retrieval → Ollama → Grounded AI Response**
+
+<a href="https://github.com/KritikaaSinghh/AI-Career-Copilot">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-AI%20CAREER%20COPILOT-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
 ## 🔗 Kritika URL Shortener
 
 > A secure URL shortening platform built with Spring Boot.
