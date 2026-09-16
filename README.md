@@ -11,11 +11,11 @@
 <a href="https://kritikaasinghh.github.io/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/kritika8070">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:singhkritika8449@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -30,19 +30,17 @@
 
 ## 👩🏻‍💻 About Me
 
-<p align="center">
+I am a **Computer Science Engineering graduate** passionate about **Java, Backend Development, DSA, AI and Software Engineering**.
 
-I am a <b>B.Tech CSE</b> student passionate about <b>Java, Backend Development, DSA, AI and Software Engineering</b>.
-<br><br>
-Currently focused on building practical applications using <b>Spring Boot, REST APIs, PostgreSQL, Spring Security, Spring AI and RAG</b>.
+I enjoy building practical applications with **Java, Spring Boot, REST APIs, PostgreSQL, Spring Security, Spring AI and RAG**.
 
-</p>
+My current focus is on strengthening backend engineering fundamentals while exploring how **Generative AI and RAG** can be integrated into real-world software applications.
 
 <div align="center">
 
-| 🎓 Education | ☕ Primary Language | 💻 Role | 🌱 Currently Learning |
+| 🎓 Education | ☕ Primary Language | 💻 Focus | 🌱 Currently Learning |
 |---|---|---|---|
-| B.Tech CSE @ MIET | Java | Backend Developer | Spring Boot, AI & RAG |
+| B.Tech CSE — MIET | Java | Backend Development | Spring Boot, AI & RAG |
 
 </div>
 
@@ -51,9 +49,7 @@ Currently focused on building practical applications using <b>Spring Boot, REST 
 # 🚀 What I'm Currently Doing
 
 <table>
-
 <tr>
-
 <td width="50%">
 
 ### ☕ Java & DSA
@@ -69,11 +65,9 @@ Strengthening Core Java, Collections, OOP, DSA and problem-solving skills.
 Building applications using Spring Boot, REST APIs, PostgreSQL and Spring Security.
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%">
 
 ### 🤖 AI & RAG
@@ -89,9 +83,7 @@ Exploring Spring AI, Generative AI, Retrieval-Augmented Generation, embeddings, 
 Turning ideas into practical applications that solve real problems.
 
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -101,29 +93,21 @@ Turning ideas into practical applications that solve real problems.
 ### 💻 Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-
 </p>
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
----
-
 ### ⚙️ Backend & Frameworks
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=spring,hibernate" />
-
 </p>
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
-
----
 
 ### 🤖 AI, Generative AI & RAG
 
@@ -140,24 +124,16 @@ Turning ideas into practical applications that solve real problems.
 
 **Focus Areas:** `Generative AI` `LLM Basics` `RAG` `Embeddings` `Vector Search` `Spring AI` `Local LLMs`
 
----
-
 ### 🗄️ Databases
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-
 </p>
-
----
 
 ### 🧰 Tools & Platforms
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode" />
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman" />
 </p>
 
 ---
@@ -179,8 +155,6 @@ Turning ideas into practical applications that solve real problems.
 ---
 
 # ⭐ Featured Projects
-
----
 
 ## 🤖 AI Career Copilot
 
