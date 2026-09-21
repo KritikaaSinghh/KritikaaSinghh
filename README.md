@@ -278,24 +278,31 @@ Turning ideas into practical applications that solve real problems.
 <a href="https://github.com/KritikaaSinghh/BasicMaths-Java">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+---
 
-### 🔹 Bitwise Operators - Java
-A collection of Java programs focused on bitwise operators and bit manipulation techniques.
+## ☕ Bitwise Operators - Java
+
+> A collection of Java programs focused on bitwise operators and bit manipulation techniques.
 
 **Topics:**  
 `AND` • `OR` • `XOR` • `NOT` • `Left Shift` • `Right Shift` • `Set Bits` • `Power of 2` • `Power of 4` • `XOR Problems` • `Fast Exponentiation`
 
-🔗 [View Repository](https://github.com/KritikaaSinghh/Bitwise-Operators-Java)
+<a href="https://github.com/KritikaaSinghh/Bitwise-Operators-Java">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-### 🔹 Arrays - Java
-Java practice programs covering arrays and 2D arrays with common problem-solving techniques.
+## 📦 Arrays - Java
+
+> Java practice programs covering arrays and 2D arrays with common problem-solving techniques.
 
 **Topics:**  
 `Arrays` • `2D Arrays` • `Traversal` • `Indexing` • `Min/Max` • `Sum` • `Jagged Arrays` • `Input/Output`
 
-🔗 [View Repository](https://github.com/KritikaaSinghh/Arrays-Java)
+<a href="https://github.com/KritikaaSinghh/Arrays-Java">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 # 🧊 3D Contribution Calendar
 
