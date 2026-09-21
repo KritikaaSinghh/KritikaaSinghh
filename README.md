@@ -265,7 +265,6 @@ Turning ideas into practical applications that solve real problems.
 <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
 
 ## 🧮 Basic Maths — Java
 
