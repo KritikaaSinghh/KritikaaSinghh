@@ -303,6 +303,19 @@ Turning ideas into practical applications that solve real problems.
 <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+
+## 🧠 LeetCode — Problem Solving
+
+> Practicing Data Structures & Algorithms in Java to improve problem-solving, logical thinking and coding skills.
+
+**Focus Areas:**  
+`Arrays` `Two Pointers` `Binary Search` `Strings` `Hashing` `Sorting` `Linked List` `Stack` `Queue` `Recursion` `Trees` `Graphs` `Dynamic Programming`
+
+🔗 **[View My LeetCode Profile](https://leetcode.com/u/kritikaasinghh/)**
+
+🔗 **[View My LeetCode Solutions](https://github.com/KritikaaSinghh/LeetCode-Java)**
+
+
 # 🧊 3D Contribution Calendar
 
 <div align="center">
