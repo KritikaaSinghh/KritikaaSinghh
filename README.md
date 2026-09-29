@@ -309,12 +309,11 @@ Turning ideas into practical applications that solve real problems.
 > Practicing Data Structures & Algorithms in Java to improve problem-solving, logical thinking and coding skills.
 
 **Focus Areas:**  
-`Arrays` `Two Pointers` `Binary Search` `Strings` `Hashing` `Sorting` `Linked List` `Stack` `Queue` `Recursion` `Trees` `Graphs` `Dynamic Programming`
+`Arrays` • `Two Pointers` • `Binary Search` • `Strings` • `Hashing` • `Sorting` • `Linked List` • `Stack` • `Queue` • `Recursion` • `Trees` • `Graphs` • `Dynamic Programming`
 
-🔗 **[View My LeetCode Profile](https://leetcode.com/u/kritikaasinghh/)**
+[![View LeetCode Profile](https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kritikaasinghh/)
 
-🔗 **[View My LeetCode Solutions](https://github.com/KritikaaSinghh/LeetCode-Java)**
-
+[![View Solutions](https://img.shields.io/badge/VIEW%20SOLUTIONS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KritikaaSinghh/LeetCode-Java)
 
 # 🧊 3D Contribution Calendar
 
