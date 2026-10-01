@@ -1,48 +1,31 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ✦ MINIMAL CUTE NEON HERO ✦ -->
+<!-- ✦ CUTE + CLEAN NEON HERO ✦ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0B0814&text=KRITIKA%20SINGH&fontColor=F8FAFC&fontSize=46&fontAlignY=43&animation=twinkling&desc=JAVA%20%7C%20BACKEND%20%7C%20AI&descAlignY=70&descSize=14&descColor=C084FC"/>
-
-<table>
-<tr>
-<td width="15%" align="center">
-
-`✦`  
-`˚₊‧`  
-`♡`  
-`✧`
-
-</td>
-
-<td width="70%" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1200&color=67E8F9&center=true&vCenter=true&width=620&height=35&lines=Building+with+Java+%E2%80%A2+Learning+%E2%80%A2+Growing+%E2%99%A1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=0B0814&text=KRITIKA%20SINGH&fontColor=F8FAFC&fontSize=46&fontAlignY=43&animation=twinkling&desc=JAVA%20%7C%20BACKEND%20%7C%20AI&descAlignY=70&descSize=14&descColor=C084FC"/>
 
 <br>
 
 <sub>
-<strong>Software Engineer</strong> • Backend Developer • CSE Graduate
+✦ &nbsp; <strong>Software Engineer</strong> &nbsp;•&nbsp; Backend Developer &nbsp;•&nbsp; CSE Graduate &nbsp; ✦
 </sub>
 
-</td>
+<br><br>
 
-<td width="15%" align="center">
-
-`✧`  
-`♡`  
-`˚₊‧`  
-`✦`
-
-</td>
-</tr>
-</table>
+<p>
+<span>✦</span>
+&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1200&color=67E8F9&center=true&vCenter=true&width=560&height=32&lines=Building+with+Java+%E2%80%A2+Learning+%E2%80%A2+Growing+%E2%99%A1"/>
+&nbsp;&nbsp;
+<span>♡</span>
+</p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,18&section=header" width="620"/>
+<!-- subtle purple → cyan → pink accent -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,18&section=header" width="580"/>
 
 <br><br>
 
@@ -60,10 +43,10 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Java-A855F7?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-22C55E?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-06B6D4?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%2B%20RAG-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/☕%20Java-A855F7?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌱%20Spring%20Boot-22C55E?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/🐘%20PostgreSQL-06B6D4?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤖%20AI%20%2B%20RAG-EC4899?style=flat-square"/>
 
 <br>
 
