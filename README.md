@@ -73,7 +73,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/📍%20Meerut%2C%20Uttar%20Pradesh%2C%20India-8B5CF6?style=for-the-badge&labelColor=10051A"/>
 
 </td>
 
