@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ✦ MINIMAL NEON HERO ✦ -->
+<!-- ✦ HERO ✦ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0A0712&text=KRITIKA%20SINGH&fontColor=F8FAFC&fontSize=50&fontAlignY=42&animation=twinkling&desc=JAVA%20%7C%20BACKEND%20%7C%20AI&descAlignY=67&descSize=15&descColor=C084FC"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0B0814&text=KRITIKA%20SINGH&fontColor=F8FAFC&fontSize=46&fontAlignY=43&animation=twinkling&desc=JAVA%20%7C%20BACKEND%20%7C%20AI&descAlignY=70&descSize=14&descColor=C084FC"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=720&lines=Building+scalable+backend+applications;Java+%7C+Spring+Boot+%7C+REST+APIs;Exploring+Generative+AI+%7C+RAG+%7C+LLMs"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1200&color=67E8F9&center=true&vCenter=true&width=620&height=35&lines=Building+with+Java+%E2%80%A2+Learning+%E2%80%A2+Growing+%E2%99%A1"/>
 
 <br>
 
@@ -16,21 +16,20 @@
 
 <br><br>
 
-<!-- Thin Purple → Cyan → Pink SVG Divider -->
-<img src="https://svgshare.com/i/17fM.svg" width="620" height="3" alt="purple cyan pink gradient divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,18&section=header" width="620"/>
 
 <br><br>
 
 <a href="https://kritikaasinghh.github.io/">
-<img src="https://img.shields.io/badge/PORTFOLIO-A855F7?style=for-the-badge&labelColor=10051A"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-A855F7?style=for-the-badge&labelColor=120820"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kritika8070">
-<img src="https://img.shields.io/badge/LINKEDIN-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03151A"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03151A"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/kritikaasinghh/">
-<img src="https://img.shields.io/badge/LEETCODE-EC4899?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A0612"/>
+<img src="https://img.shields.io/badge/⚡%20LEETCODE-EC4899?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A0612"/>
 </a>
 
 <br><br>
@@ -40,12 +39,16 @@
 <img src="https://img.shields.io/badge/PostgreSQL-06B6D4?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20%2B%20RAG-EC4899?style=flat-square"/>
 
+<br>
+
+<sub>♡ building things I'm proud of, one project at a time ♡</sub>
+
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ✦ PROFILE CARD ✦ -->
+<!-- ✦ PROFILE ✦ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -96,7 +99,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ✦ TECH RIBBON + STATS ✦ -->
+<!-- ✦ TECH STRIP + HIGHLIGHTS ✦ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -516,16 +519,32 @@ My Java practice space for strengthening programming fundamentals and problem so
 🧮 Basic Maths  
 ⚡ Bitwise Operators
 
+<br>
+
 <a href="https://github.com/KritikaaSinghh/Java-Collection-Framework">
 <img src="https://img.shields.io/badge/COLLECTIONS-A855F7?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/KritikaaSinghh/Java-Pattern-Programs">
+<img src="https://img.shields.io/badge/PATTERNS-EC4899?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/KritikaaSinghh/Object-Oriented-Programming-OOPs">
 <img src="https://img.shields.io/badge/OOP-8B5CF6?style=for-the-badge"/>
 </a>
 
+<br>
+
+<a href="https://github.com/KritikaaSinghh/BasicMaths-Java">
+<img src="https://img.shields.io/badge/BASIC%20MATHS-06B6D4?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/KritikaaSinghh/Bitwise-Operators-Java">
+<img src="https://img.shields.io/badge/BITWISE-F97316?style=for-the-badge"/>
+</a>
+
 <a href="https://github.com/KritikaaSinghh/Arrays-Java">
-<img src="https://img.shields.io/badge/ARRAYS-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ARRAYS-A855F7?style=for-the-badge"/>
 </a>
 
 </td>
@@ -549,7 +568,7 @@ My Java practice space for strengthening programming fundamentals and problem so
 `Core Java`  
 `OOP`  
 `Collections`  
-`DSA`
+`JDBC`
 
 </td>
 
@@ -557,6 +576,7 @@ My Java practice space for strengthening programming fundamentals and problem so
 
 ### ⚡ PROBLEM SOLVING
 
+`DSA`  
 `Arrays`  
 `Hashing`  
 `Sorting`  
@@ -642,7 +662,7 @@ My Java practice space for strengthening programming fundamentals and problem so
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ✦ FINAL GLASS FOOTER ✦ -->
+<!-- ✦ CONTACT ✦ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -678,7 +698,7 @@ My Java practice space for strengthening programming fundamentals and problem so
 <img src="https://img.shields.io/badge/✉️%20EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0612"/>
 </a>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/☕%20JAVA-A855F7?style=flat-square&labelColor=10051A"/>
 <img src="https://img.shields.io/badge/🌱%20SPRING%20BOOT-22C55E?style=flat-square&labelColor=07140A"/>
