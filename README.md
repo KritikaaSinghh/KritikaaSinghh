@@ -1,10 +1,23 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ✦ HERO ✦ -->
+<!-- ✦ MINIMAL CUTE NEON HERO ✦ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0B0814&text=KRITIKA%20SINGH&fontColor=F8FAFC&fontSize=46&fontAlignY=43&animation=twinkling&desc=JAVA%20%7C%20BACKEND%20%7C%20AI&descAlignY=70&descSize=14&descColor=C084FC"/>
+
+<table>
+<tr>
+<td width="15%" align="center">
+
+`✦`  
+`˚₊‧`  
+`♡`  
+`✧`
+
+</td>
+
+<td width="70%" align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1200&color=67E8F9&center=true&vCenter=true&width=620&height=35&lines=Building+with+Java+%E2%80%A2+Learning+%E2%80%A2+Growing+%E2%99%A1"/>
 
@@ -14,7 +27,20 @@
 <strong>Software Engineer</strong> • Backend Developer • CSE Graduate
 </sub>
 
-<br><br>
+</td>
+
+<td width="15%" align="center">
+
+`✧`  
+`♡`  
+`˚₊‧`  
+`✦`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,18&section=header" width="620"/>
 
