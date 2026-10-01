@@ -304,16 +304,6 @@ Turning ideas into practical applications that solve real problems.
 </a>
 
 
-## 🧠 LeetCode — Problem Solving
-
-> Practicing Data Structures & Algorithms in Java to improve problem-solving, logical thinking and coding skills.
-
-**Focus Areas:**  
-`Arrays` • `Two Pointers` • `Binary Search` • `Strings` • `Hashing` • `Sorting` • `Linked List` • `Stack` • `Queue` • `Recursion` • `Trees` • `Graphs` • `Dynamic Programming`
-
-[![View LeetCode Profile](https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kritikaasinghh/)
-
-[![View Solutions](https://img.shields.io/badge/VIEW%20SOLUTIONS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KritikaaSinghh/LeetCode-Java)
 
 # 🧊 3D Contribution Calendar
 
@@ -468,6 +458,9 @@ Grow as a Backend Developer
 <a href="mailto:singhkritika8449@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+[![View LeetCode Profile](https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kritikaasinghh/)
+
 
 <br><br>
 
