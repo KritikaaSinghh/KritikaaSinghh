@@ -1,111 +1,172 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=Kritika%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0B14&height=220&section=header&text=KRITIKA%20SINGH&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=JAVA%20%7C%20SPRING%20BOOT%20%7C%20BACKEND%20%7C%20AI&descAlignY=58&descSize=18"/>
 
-# 👩🏻‍💻 Kritika Singh
+<br>
 
-### 💻 Java Developer • Backend Developer • Software Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Java+Developer+%E2%98%95;Spring+Boot+Developer+%F0%9F%8C%B1;Backend+Engineer+%F0%9F%92%BB;AI+%26+RAG+Explorer+%F0%9F%A4%96;DSA+%26+Problem+Solving+%F0%9F%A7%A0;Building+Real-World+Software+%F0%9F%9A%80"/>
 
-**Building scalable, secure & real-world applications with Java, Spring Boot & AI ☕🤖🚀**
+<br><br>
 
 <a href="https://kritikaasinghh.github.io/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%E2%9C%A8%20PORTFOLIO-8B5CF6?style=for-the-badge"/>
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/in/kritika8070">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 &nbsp;
-<a href="mailto:singhkritika8449@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
+
 <a href="https://leetcode.com/u/kritikaasinghh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:singhkritika8449@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Java+Developer+%E2%98%95;Spring+Boot+Developer+%F0%9F%8C%B1;Backend+Engineer+%F0%9F%92%BB;AI+%26+RAG+Learner+%F0%9F%A4%96;DSA+%26+Problem+Solving+%F0%9F%A7%A0;Building+Real-World+Projects+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Build+%E2%80%A2+Learn+%E2%80%A2+Debug+%E2%80%A2+Improve;Turning+ideas+into+software+%F0%9F%9A%80"/>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
-
-I am a **Computer Science Engineering graduate** passionate about **Java, Backend Development, DSA, AI and Software Engineering**.
-
-I enjoy building practical applications with **Java, Spring Boot, REST APIs, PostgreSQL, Spring Security, Spring AI and RAG**.
-
-My current focus is on strengthening backend engineering fundamentals while exploring how **Generative AI and RAG** can be integrated into real-world software applications.
-
-<div align="center">
-
-| 🎓 Education | ☕ Primary Language | 💻 Focus | 🌱 Currently Learning |
-|---|---|---|---|
-| B.Tech CSE — MIET | Java | Backend Development | Spring Boot, AI & RAG |
-
-</div>
-
----
-
-# 🚀 What I'm Currently Doing
+# 👩🏻‍💻 ABOUT ME
 
 <table>
 <tr>
-<td width="50%">
 
-### ☕ Java & DSA
+<td width="55%">
 
-Strengthening Core Java, Collections, OOP, DSA and problem-solving skills.
+### Hey, I'm Kritika 👋
 
-</td>
+I'm a **Computer Science Engineering graduate** passionate about building software that solves real-world problems.
 
-<td width="50%">
+My primary focus is **Java Backend Development**, with a strong interest in:
 
-### 🌱 Backend Development
+- ☕ Core Java
+- 🌱 Spring Boot
+- 🔗 REST APIs
+- 🗄️ PostgreSQL / MySQL / MongoDB
+- 🔐 Authentication & Security
+- 🐳 Docker
+- 🤖 Generative AI
+- 🧠 RAG & Vector Search
+- 🧩 DSA & Problem Solving
 
-Building applications using Spring Boot, REST APIs, PostgreSQL and Spring Security.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 AI & RAG
-
-Exploring Spring AI, Generative AI, Retrieval-Augmented Generation, embeddings, vector search and local LLMs with Ollama.
+Currently exploring the intersection of **Backend Engineering + AI**.
 
 </td>
 
-<td width="50%">
+<td width="45%" align="center">
 
-### 🧩 Real-World Projects
+### ☕ JAVA DEVELOPER
 
-Turning ideas into practical applications that solve real problems.
+**Backend Development**
+
+**Spring Boot**
+
+**REST APIs**
+
+**Databases**
+
+**AI + RAG**
+
+**DSA**
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 CURRENTLY BUILDING
 
-### 💻 Languages
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+### ☕ JAVA + DSA
+
+Core Java  
+OOP  
+Collections  
+DSA  
+Problem Solving
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌱 BACKEND DEVELOPMENT
+
+Spring Boot  
+REST APIs  
+PostgreSQL  
+Security  
+Docker
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🤖 AI + RAG
+
+Generative AI  
+LLMs  
+Spring AI  
+Embeddings  
+Vector Search
+
+</td>
+
+<td width="50%" align="center">
+
+### 🚀 REAL-WORLD PROJECTS
+
+Backend Systems  
+AI Applications  
+Automation  
+Developer Tools
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🛠️ TECH STACK
+
+### 💻 LANGUAGES
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
 </p>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-### ⚙️ Backend & Frameworks
+### ⚙️ BACKEND & FRAMEWORKS
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate"/>
 </p>
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -113,94 +174,97 @@ Turning ideas into practical applications that solve real problems.
 <img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
 
-### 🤖 AI, Generative AI & RAG
-
-<p>
+### 🤖 AI / GENERATIVE AI
 
 <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-Local%20LLM-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM-Generative%20AI-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-Vector%20Search-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PGVector-Vector%20Database-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PGVector-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge"/>
 
-</p>
-
-**Focus Areas:** `Generative AI` `LLM Basics` `RAG` `Embeddings` `Vector Search` `Spring AI` `Local LLMs`
-
-### 🗄️ Databases
+### 🗄️ DATABASES
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 TOOLS
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman"/>
 </p>
 
 ---
 
-# 🧠 Core Concepts
+# 🧠 CORE CONCEPTS
 
-<p>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Core_Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/OOP-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Collections-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COLLECTIONS-A78BFA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Authentication-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATABASES-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AUTHENTICATION-6DB33F?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
-## 🤖 AI Career Copilot
+## 🤖 AI CAREER COPILOT
 
-> An AI-powered career intelligence platform built with Java and Spring Boot that helps candidates analyze resumes, chat with resume data, match job descriptions, identify skill gaps, practice technical interviews, and generate personalized career roadmaps.
+> **AI-powered career intelligence platform built with Java + Spring Boot.**
 
-**Tech:** `Java` `Spring Boot` `Spring AI` `RAG` `Ollama` `PostgreSQL` `PGVector` `Docker`
+### ✨ FEATURES
 
-### ✨ Features
-
-- 📄 Resume PDF ingestion and processing
+- 📄 Resume PDF ingestion
 - 💬 RAG-powered resume chat
-- 📊 AI resume analysis with ATS-focused feedback
-- 🎯 Resume-to-job matching with match score
-- 🧠 Skill gap analysis and learning recommendations
-- 🎤 Technical interview question generation and evaluation
-- 🗺️ Personalized 90-day career roadmap
-- 🔒 Local AI inference using Ollama
+- 📊 AI resume analysis
+- 🎯 Resume → Job matching
+- 🧠 Skill gap analysis
+- 🎤 Interview question generation
+- 🗺️ Personalized 90-day roadmap
+- 🔒 Local AI inference with Ollama
 
-### 🧠 AI Architecture
+### 🧠 AI ARCHITECTURE
 
-**PDF Resume → Text Extraction → Chunking → Embeddings → PGVector → Retrieval → Ollama → Grounded AI Response**
+<div align="center">
+
+**RESUME → TEXT EXTRACTION → CHUNKING → EMBEDDINGS → PGVECTOR → RETRIEVAL → LLM → AI RESPONSE**
+
+</div>
+
+**Stack**
+
+`Java` `Spring Boot` `Spring AI` `RAG` `Ollama` `PostgreSQL` `PGVector` `Docker`
 
 <a href="https://github.com/KritikaaSinghh/AI-Career-Copilot">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-AI%20CAREER%20COPILOT-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-## 🔗 Kritika URL Shortener
+## 🔗 KRITIKA URL SHORTENER
 
-> A secure URL shortening platform built with Spring Boot.
+> **Secure URL shortening platform built with Spring Boot.**
 
-**Tech:** `Spring Boot` `Spring Security` `PostgreSQL` `Flyway` `Thymeleaf` `Docker`
-
-### ✨ Features
+### ✨ FEATURES
 
 - 🔐 User authentication & authorization
 - 🔗 Short URL generation
 - ✨ Custom URLs
 - 📊 Click analytics
 - 🐳 Docker support
-- 🗄️ Database migrations with Flyway
+- 🗄️ Database migrations
+
+**Stack**
+
+`Spring Boot` `Spring Security` `PostgreSQL` `Flyway` `Thymeleaf` `Docker`
 
 <a href="https://github.com/KritikaaSinghh/kritika-url-shortener">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
@@ -208,13 +272,15 @@ Turning ideas into practical applications that solve real problems.
 
 ---
 
-## 📊 Sorting Visualizer
+## 📊 SORTING VISUALIZER
 
-> Interactive visualization tool for understanding sorting algorithms.
+> **Interactive visualization tool for understanding sorting algorithms.**
 
-**Tech:** `HTML` `CSS` `JavaScript`
+**Stack**
 
-### ✨ Features
+`HTML` `CSS` `JavaScript`
+
+### ✨ FEATURES
 
 - 📊 Algorithm visualization
 - ⚡ Adjustable speed
@@ -222,108 +288,148 @@ Turning ideas into practical applications that solve real problems.
 - 🎨 Interactive interface
 
 <a href="https://github.com/KritikaaSinghh/Sorting-Visualizer">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-## ☕ Java Collection Framework
-
-> Hands-on Java practice covering the Collection Framework, collection methods, sorting and comparison techniques.
-
-**Tech:** `Java` `Collections Framework` `Comparable` `Comparator` `Lambda Expressions`
-
-### ✨ Topics Covered
-
-`ArrayList` `LinkedList` `Vector` `Stack` `Queue` `PriorityQueue` `Deque` `HashSet` `LinkedHashSet` `TreeSet` `EnumSet` `HashMap` `LinkedHashMap` `TreeMap` `Comparable` `Comparator` `Lambda Expressions`
-
-<a href="https://github.com/KritikaaSinghh/Java-Collection-Framework">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## ☕ Java Pattern Programs
-
-> Java programs focused on logic building and programming fundamentals.
-
-### ✨ Includes
-
-`⭐ Star Patterns` `🔢 Number Patterns` `🔤 Alphabet Patterns` `🔄 Nested Loops` `💡 Logic Building`
-
-<a href="https://github.com/KritikaaSinghh/Java-Pattern-Programs">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🧩 Object-Oriented Programming
-
-> Practical Java implementations of core OOP principles.
-
-### ✨ Includes
-
-`Abstraction` `Encapsulation` `Inheritance` `Polymorphism` `Interfaces` `Upcasting` `Method Overloading` `Method Overriding`
-
-<a href="https://github.com/KritikaaSinghh/Object-Oriented-Programming-OOPs">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-
-## 🧮 Basic Maths — Java
-
-> Java programs focused on mathematical logic and problem solving.
-
-### ✨ Includes
-
-`Armstrong Number` `GCD` `LCM` `Palindrome` `Perfect Number` `Prime Number` `Reverse Number` `Sum of Digits`
-
-<a href="https://github.com/KritikaaSinghh/BasicMaths-Java">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
----
-
-## ☕ Bitwise Operators - Java
-
-> A collection of Java programs focused on bitwise operators and bit manipulation techniques.
-
-**Topics:**  
-`AND` • `OR` • `XOR` • `NOT` • `Left Shift` • `Right Shift` • `Set Bits` • `Power of 2` • `Power of 4` • `XOR Problems` • `Fast Exponentiation`
-
-<a href="https://github.com/KritikaaSinghh/Bitwise-Operators-Java">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 📦 Arrays - Java
-
-> Java practice programs covering arrays and 2D arrays with common problem-solving techniques.
-
-**Topics:**  
-`Arrays` • `2D Arrays` • `Traversal` • `Indexing` • `Min/Max` • `Sum` • `Jagged Arrays` • `Input/Output`
-
-<a href="https://github.com/KritikaaSinghh/Arrays-Java">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-
-
-# 🧊 3D Contribution Calendar
+# ☕ JAVA LAB
 
 <div align="center">
 
-### 💜 My Coding Journey in 3D 💜
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+### ☕ COLLECTIONS
+
+ArrayList  
+LinkedList  
+HashMap  
+HashSet  
+TreeMap  
+Comparator
+
+<a href="https://github.com/KritikaaSinghh/Java-Collection-Framework">
+<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧩 OOP
+
+Abstraction  
+Encapsulation  
+Inheritance  
+Polymorphism  
+Interfaces
+
+<a href="https://github.com/KritikaaSinghh/Object-Oriented-Programming-OOPs">
+<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔢 PATTERNS
+
+Star Patterns  
+Number Patterns  
+Alphabet Patterns  
+Nested Loops
+
+<a href="https://github.com/KritikaaSinghh/Java-Pattern-Programs">
+<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🧩 MORE JAVA PROJECTS
+
+### 🧮 BASIC MATHS
+
+`Armstrong` `GCD` `LCM` `Palindrome` `Perfect Number` `Prime Number` `Reverse Number`
+
+<a href="https://github.com/KritikaaSinghh/BasicMaths-Java">
+<img src="https://img.shields.io/badge/REPOSITORY-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
+
+### ☕ BITWISE OPERATORS
+
+`AND` `OR` `XOR` `NOT` `Left Shift` `Right Shift` `Set Bits` `Power of 2`
+
+<a href="https://github.com/KritikaaSinghh/Bitwise-Operators-Java">
+<img src="https://img.shields.io/badge/REPOSITORY-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
+
+### 📦 ARRAYS
+
+`Arrays` `2D Arrays` `Traversal` `Indexing` `Min/Max` `Sum` `Jagged Arrays`
+
+<a href="https://github.com/KritikaaSinghh/Arrays-Java">
+<img src="https://img.shields.io/badge/REPOSITORY-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+# 💻 LEETCODE
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/kritikaasinghh?theme=dark&font=Karma&ext=heatmap"/>
+
+<br><br>
+
+<a href="https://leetcode.com/u/kritikaasinghh/">
+<img src="https://img.shields.io/badge/SOLVE_MORE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📈 GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=KritikaaSinghh&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧊 3D CONTRIBUTION CITY
+
+<div align="center">
+
+### 💜 MY CODING JOURNEY 💜
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/💜%20CODE-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💙%20BUILD-3B82F6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💚%20LEARN-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💛%20GROW-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🩷%20CREATE-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💜_CODE-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💙_BUILD-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💚_LEARN-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💛_GROW-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🩷_CREATE-EC4899?style=for-the-badge"/>
 
 <br><br>
 
@@ -333,7 +439,7 @@ Turning ideas into practical applications that solve real problems.
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -343,17 +449,9 @@ Turning ideas into practical applications that solve real problems.
 
 ---
 
-# 📈 My GitHub Journey
+# 🎯 2026 MISSION
 
 <div align="center">
-
-### `Learning → Building → Improving → Repeating 🔁`
-
-</div>
-
----
-
-# 🎯 2026 Goals
 
 <table>
 
@@ -363,9 +461,11 @@ Turning ideas into practical applications that solve real problems.
 
 ### ☕
 
-**Master Java**
+**MASTER JAVA**
 
-Core Java + Collections + DSA
+Core Java  
+Collections  
+DSA
 
 </td>
 
@@ -373,9 +473,11 @@ Core Java + Collections + DSA
 
 ### 🌱
 
-**Spring Boot**
+**SPRING BOOT**
 
-Build production-ready APIs
+REST APIs  
+Backend  
+Security
 
 </td>
 
@@ -383,9 +485,11 @@ Build production-ready APIs
 
 ### 🤖
 
-**AI & RAG**
+**AI + RAG**
 
-Build practical AI-powered applications
+LLMs  
+Embeddings  
+Vector Search
 
 </td>
 
@@ -393,9 +497,11 @@ Build practical AI-powered applications
 
 ### 💼
 
-**Career**
+**CAREER**
 
-Grow as a Backend Developer
+Build  
+Apply  
+Grow
 
 </td>
 
@@ -403,43 +509,51 @@ Grow as a Backend Developer
 
 </table>
 
+</div>
+
 ---
 
-# 📚 Learning Journey
+# 🗺️ LEARNING MAP
 
 <div align="center">
 
-| Area | Focus |
-|---|---|
-| ☕ Java | Core Java, OOP, Collections |
-| 🧠 DSA | Problem Solving & Algorithms |
-| 🌱 Spring Boot | REST APIs & Backend Development |
-| 🗄️ Database | PostgreSQL, MySQL |
-| 🔐 Security | Authentication & Authorization |
-| 🤖 AI | Generative AI, LLM Basics, Spring AI |
-| 🧠 RAG | Retrieval, Embeddings & Vector Search |
-| 🐳 DevOps | Docker & Git |
-| 🧩 Projects | Real-world Application Development |
+`JAVA`
+↓
+`DSA + OOP`
+↓
+`SPRING BOOT`
+↓
+`REST APIs + DATABASE`
+↓
+`SECURITY`
+↓
+`DOCKER`
+↓
+`AI + RAG`
 
 </div>
 
 ---
 
-# 💡 Developer Mindset
+# 💡 DEVELOPER MINDSET
 
 <div align="center">
 
-### `Learn → Build → Break → Debug → Improve → Repeat 🔁`
+### `LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → IMPROVE → REPEAT 🔁`
 
-**Every bug is a lesson.**  
-**Every project is progress.**  
-**Every day is a chance to get better. 🚀**
+<br>
+
+**💜 Every bug is a lesson.**
+
+**🚀 Every project is progress.**
+
+**🧠 Every problem makes me better.**
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 LET'S CONNECT
 
 <div align="center">
 
@@ -448,29 +562,39 @@ Grow as a Backend Developer
 <br>
 
 <a href="https://kritikaasinghh.github.io/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-8B5CF6?style=for-the-badge"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.linkedin.com/in/kritika8070">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://github.com/KritikaaSinghh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="mailto:singhkritika8449@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-
 
 <br><br>
 
-**💜 Turning ideas into software, one project at a time.**
+<img src="https://komarev.com/ghpvc/?username=KritikaaSinghh&style=for-the-badge&color=8B5CF6"/>
+
+<br><br>
+
+### 💜 Turning ideas into software, one project at a time.
 
 ### ⭐ Thanks for visiting my profile!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0B14&height=120&section=footer"/>
