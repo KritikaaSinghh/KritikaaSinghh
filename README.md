@@ -1,38 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0B14&height=220&section=header&text=KRITIKA%20SINGH&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=JAVA%20%7C%20SPRING%20BOOT%20%7C%20BACKEND%20%7C%20AI&descAlignY=58&descSize=18"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0B0812&text=KRITIKA%20SINGH&fontColor=FFFFFF&fontSize=56&fontAlignY=38&animation=fadeIn&desc=JAVA%20%7C%20SPRING%20BOOT%20%7C%20BACKEND%20%7C%20AI&descAlignY=62&descSize=16"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=760&lines=Building+thoughtful+software+with+Java+%E2%98%95;Backend+Engineering+%7C+Spring+Boot+%7C+REST+APIs;Exploring+Generative+AI+%7C+RAG+%7C+LLMs;Turning+ideas+into+real-world+applications+%E2%9C%A8"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="900">
+
+### ✦ SOFTWARE ENGINEER • BACKEND DEVELOPER ✦
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Java+Developer+%E2%98%95;Spring+Boot+Developer+%F0%9F%8C%B1;Backend+Engineer+%F0%9F%92%BB;AI+%26+RAG+Explorer+%F0%9F%A4%96;DSA+%26+Problem+Solving+%F0%9F%A7%A0;Building+Real-World+Software+%F0%9F%9A%80"/>
+I’m a <b>Computer Science Engineering graduate</b> focused on building  
+<b>clean, practical and scalable backend applications</b>.
+
+<br><br>
+
+My core stack revolves around <b>Java, Spring Boot, REST APIs and databases</b>,  
+while I’m exploring <b>Generative AI, RAG and intelligent applications</b>.
+
+<br><br>
+
+<code>BUILD</code>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<code>LEARN</code>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<code>DEBUG</code>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<code>IMPROVE</code>
+
+</td>
+</tr>
+</table>
 
 <br><br>
 
 <a href="https://kritikaasinghh.github.io/">
-<img src="https://img.shields.io/badge/%E2%9C%A8%20PORTFOLIO-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=100C18"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/kritika8070">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=100C18"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/kritikaasinghh/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:singhkritika8449@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=100C18"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Build+%E2%80%A2+Learn+%E2%80%A2+Debug+%E2%80%A2+Improve;Turning+ideas+into+software+%F0%9F%9A%80"/>
+<img src="https://img.shields.io/badge/JAVA-181225?style=flat-square&logo=openjdk&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/SPRING_BOOT-181225?style=flat-square&logo=springboot&logoColor=86EFAC"/>
+<img src="https://img.shields.io/badge/REST_APIs-181225?style=flat-square&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/AI_%26_RAG-181225?style=flat-square&logoColor=C4B5FD"/>
+
+<br><br><br>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### ☕
+**JAVA**
+
+Core + DSA
+
+</td>
+
+<td align="center" width="20%">
+
+### 🌱
+**SPRING**
+
+Boot + APIs
+
+</td>
+
+<td align="center" width="20%">
+
+### 🗄️
+**DATABASE**
+
+SQL + NoSQL
+
+</td>
+
+<td align="center" width="20%">
+
+### 🤖
+**AI**
+
+LLM + RAG
+
+</td>
+
+<td align="center" width="20%">
+
+### 🚀
+**BUILD**
+
+Real Projects
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -43,9 +133,9 @@
 <table>
 <tr>
 
-<td width="55%">
+<td width="60%" valign="top">
 
-### Hey, I'm Kritika 👋
+## Hey, I'm Kritika 👋
 
 I'm a **Computer Science Engineering graduate** passionate about building software that solves real-world problems.
 
@@ -65,21 +155,39 @@ Currently exploring the intersection of **Backend Engineering + AI**.
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center" valign="middle">
 
-### ☕ JAVA DEVELOPER
+### `SYSTEM STATUS`
 
-**Backend Development**
+🟢 **ONLINE**
 
-**Spring Boot**
+<br><br>
 
-**REST APIs**
+**JAVA**
 
-**Databases**
+██████████░░
 
-**AI + RAG**
+<br>
+
+**SPRING BOOT**
+
+████████░░░░
+
+<br>
 
 **DSA**
+
+███████░░░░░
+
+<br>
+
+**AI / RAG**
+
+██████░░░░░░
+
+<br><br>
+
+`BUILD MODE : ON`
 
 </td>
 
@@ -155,45 +263,51 @@ Developer Tools
 
 ---
 
-# 🛠️ TECH STACK
+# 🛠️ TECH ARSENAL
+
+<div align="center">
 
 ### 💻 LANGUAGES
 
-<p>
 <img src="https://skillicons.dev/icons?i=java,js,html,css"/>
-</p>
 
-### ⚙️ BACKEND & FRAMEWORKS
+<br><br>
 
-<p>
+### ⚙️ BACKEND
+
 <img src="https://skillicons.dev/icons?i=spring,hibernate"/>
-</p>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
 
+<br><br>
+
 ### 🤖 AI / GENERATIVE AI
 
-<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPRING_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLM-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PGVector-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EMBEDDINGS-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PGVECTOR-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OLLAMA-111827?style=for-the-badge"/>
+
+<br><br>
 
 ### 🗄️ DATABASES
 
-<p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-</p>
+
+<br><br>
 
 ### 🧰 TOOLS
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman"/>
-</p>
+
+</div>
 
 ---
 
@@ -216,84 +330,149 @@ Developer Tools
 
 # 🚀 FEATURED PROJECTS
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ## 🤖 AI CAREER COPILOT
 
-> **AI-powered career intelligence platform built with Java + Spring Boot.**
+### `AI × BACKEND × RAG`
 
-### ✨ FEATURES
+AI-powered career intelligence platform built with Java and Spring Boot.
 
-- 📄 Resume PDF ingestion
-- 💬 RAG-powered resume chat
-- 📊 AI resume analysis
-- 🎯 Resume → Job matching
-- 🧠 Skill gap analysis
-- 🎤 Interview question generation
-- 🗺️ Personalized 90-day roadmap
-- 🔒 Local AI inference with Ollama
+<br>
 
-### 🧠 AI ARCHITECTURE
+**What it does**
 
-<div align="center">
+📄 Resume Analysis  
+💬 RAG Resume Chat  
+🎯 Job Matching  
+🧠 Skill Gap Analysis  
+🎤 Interview Questions  
+🗺️ Career Roadmap  
+🔒 Local AI with Ollama
 
-**RESUME → TEXT EXTRACTION → CHUNKING → EMBEDDINGS → PGVECTOR → RETRIEVAL → LLM → AI RESPONSE**
+<br>
 
-</div>
+**STACK**
 
-**Stack**
+`Java` `Spring Boot` `Spring AI`  
+`RAG` `PostgreSQL` `PGVector` `Docker`
 
-`Java` `Spring Boot` `Spring AI` `RAG` `Ollama` `PostgreSQL` `PGVector` `Docker`
+<br>
 
 <a href="https://github.com/KritikaaSinghh/AI-Career-Copilot">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
+</td>
 
-## 🔗 KRITIKA URL SHORTENER
+<td width="50%" valign="top">
 
-> **Secure URL shortening platform built with Spring Boot.**
+## 🔗 URL SHORTENER
 
-### ✨ FEATURES
+### `SPRING BOOT × SECURITY`
 
-- 🔐 User authentication & authorization
-- 🔗 Short URL generation
-- ✨ Custom URLs
-- 📊 Click analytics
-- 🐳 Docker support
-- 🗄️ Database migrations
+Secure URL shortening platform built with Spring Boot.
 
-**Stack**
+<br>
 
-`Spring Boot` `Spring Security` `PostgreSQL` `Flyway` `Thymeleaf` `Docker`
+**What it does**
+
+🔐 Authentication  
+🔗 Short URLs  
+✨ Custom URLs  
+📊 Click Analytics  
+🗄️ PostgreSQL  
+🐳 Docker  
+🔄 Flyway
+
+<br>
+
+**STACK**
+
+`Java` `Spring Boot` `Spring Security`  
+`PostgreSQL` `Flyway` `Thymeleaf`
+
+<br>
 
 <a href="https://github.com/KritikaaSinghh/kritika-url-shortener">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## 📊 SORTING VISUALIZER
 
-> **Interactive visualization tool for understanding sorting algorithms.**
+### `ALGORITHMS × VISUALIZATION`
 
-**Stack**
+Interactive sorting algorithm visualization tool.
+
+<br>
+
+**STACK**
 
 `HTML` `CSS` `JavaScript`
 
-### ✨ FEATURES
+<br>
 
-- 📊 Algorithm visualization
-- ⚡ Adjustable speed
-- 🔄 Multiple sorting algorithms
-- 🎨 Interactive interface
+📊 Algorithm Visualization  
+⚡ Adjustable Speed  
+🔄 Multiple Algorithms  
+🎨 Interactive Interface
+
+<br>
+
+<a href="https://kritikaasinghh.github.io/Sorting-Visualizer/">
+<img src="https://img.shields.io/badge/%E2%86%97%20LIVE_DEMO-06B6D4?style=for-the-badge"/>
+</a>
+
+&nbsp;
 
 <a href="https://github.com/KritikaaSinghh/Sorting-Visualizer">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20GITHUB-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ✨ LUMINA
+
+### `AI × AUTOMATION`
+
+Natural Language Driven AI Agent Automation Platform.
+
+<br>
+
+**FOCUS**
+
+🤖 AI Agents  
+🧠 Natural Language  
+⚙️ Automation  
+🔄 Task Orchestration
+
+<br>
+
+**VISION**
+
+Turning natural-language instructions into intelligent automated workflows.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# ☕ JAVA LAB
+# ☕ JAVA WORKSPACE
 
 <div align="center">
 
@@ -305,12 +484,14 @@ Developer Tools
 
 ### ☕ COLLECTIONS
 
-ArrayList  
-LinkedList  
-HashMap  
-HashSet  
-TreeMap  
-Comparator
+`ArrayList`  
+`LinkedList`  
+`HashMap`  
+`HashSet`  
+`TreeMap`  
+`Comparator`
+
+<br>
 
 <a href="https://github.com/KritikaaSinghh/Java-Collection-Framework">
 <img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge"/>
@@ -322,11 +503,13 @@ Comparator
 
 ### 🧩 OOP
 
-Abstraction  
-Encapsulation  
-Inheritance  
-Polymorphism  
-Interfaces
+`Abstraction`  
+`Encapsulation`  
+`Inheritance`  
+`Polymorphism`  
+`Interfaces`
+
+<br>
 
 <a href="https://github.com/KritikaaSinghh/Object-Oriented-Programming-OOPs">
 <img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge"/>
@@ -338,10 +521,12 @@ Interfaces
 
 ### 🔢 PATTERNS
 
-Star Patterns  
-Number Patterns  
-Alphabet Patterns  
-Nested Loops
+`Star Patterns`  
+`Number Patterns`  
+`Alphabet Patterns`  
+`Nested Loops`
+
+<br>
 
 <a href="https://github.com/KritikaaSinghh/Java-Pattern-Programs">
 <img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge"/>
@@ -357,59 +542,87 @@ Nested Loops
 
 ---
 
-# 🧩 MORE JAVA PROJECTS
-
-### 🧮 BASIC MATHS
-
-`Armstrong` `GCD` `LCM` `Palindrome` `Perfect Number` `Prime Number` `Reverse Number`
-
-<a href="https://github.com/KritikaaSinghh/BasicMaths-Java">
-<img src="https://img.shields.io/badge/REPOSITORY-8B5CF6?style=for-the-badge&logo=github"/>
-</a>
-
-### ☕ BITWISE OPERATORS
-
-`AND` `OR` `XOR` `NOT` `Left Shift` `Right Shift` `Set Bits` `Power of 2`
-
-<a href="https://github.com/KritikaaSinghh/Bitwise-Operators-Java">
-<img src="https://img.shields.io/badge/REPOSITORY-8B5CF6?style=for-the-badge&logo=github"/>
-</a>
-
-### 📦 ARRAYS
-
-`Arrays` `2D Arrays` `Traversal` `Indexing` `Min/Max` `Sum` `Jagged Arrays`
-
-<a href="https://github.com/KritikaaSinghh/Arrays-Java">
-<img src="https://img.shields.io/badge/REPOSITORY-8B5CF6?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-# 💻 LEETCODE
+# 🧩 PROBLEM SOLVING
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/kritikaasinghh?theme=dark&font=Karma&ext=heatmap"/>
+<table>
 
-<br><br>
+<tr>
 
-<a href="https://leetcode.com/u/kritikaasinghh/">
-<img src="https://img.shields.io/badge/SOLVE_MORE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<td width="33%" align="center">
+
+### 🧮 BASIC MATHS
+
+`Prime`  
+`Palindrome`  
+`GCD`  
+`LCM`  
+`Armstrong`
+
+<br>
+
+<a href="https://github.com/KritikaaSinghh/BasicMaths-Java">
+<img src="https://img.shields.io/badge/VIEW-8B5CF6?style=for-the-badge"/>
 </a>
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚡ BITWISE
+
+`AND`  
+`OR`  
+`XOR`  
+`Shifts`  
+`Set Bits`
+
+<br>
+
+<a href="https://github.com/KritikaaSinghh/Bitwise-Operators-Java">
+<img src="https://img.shields.io/badge/VIEW-8B5CF6?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 📦 ARRAYS
+
+`Arrays`  
+`2D Arrays`  
+`Traversal`  
+`Min / Max`  
+`Jagged Arrays`
+
+<br>
+
+<a href="https://github.com/KritikaaSinghh/Arrays-Java">
+<img src="https://img.shields.io/badge/VIEW-8B5CF6?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# 📈 GITHUB ANALYTICS
+# ⚡ LEETCODE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<a href="https://leetcode.com/u/kritikaasinghh/">
+<img src="https://img.shields.io/badge/%E2%9A%A1%20VISIT%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=KritikaaSinghh&theme=tokyonight&hide_border=true"/>
+`DSA` • `Algorithms` • `Problem Solving`
 
 </div>
 
@@ -419,37 +632,25 @@ Nested Loops
 
 <div align="center">
 
-### 💜 MY CODING JOURNEY 💜
+<img src="https://img.shields.io/badge/01%20CODE-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02%20BUILD-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03%20LEARN-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04%20GROW-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/05%20CREATE-EC4899?style=for-the-badge"/>
+
+<br><br>
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/💜_CODE-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💙_BUILD-3B82F6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💚_LEARN-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💛_GROW-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🩷_CREATE-EC4899?style=for-the-badge"/>
-
-<br><br>
-
-### `Every contribution tells a story. 🚀`
+### `EVERY CONTRIBUTION TELLS A STORY. 🚀`
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# 🎯 2026 MISSION
+# 🎯 2026 QUEST
 
 <div align="center">
 
@@ -461,7 +662,7 @@ Nested Loops
 
 ### ☕
 
-**MASTER JAVA**
+**JAVA**
 
 Core Java  
 Collections  
@@ -473,10 +674,10 @@ DSA
 
 ### 🌱
 
-**SPRING BOOT**
+**BACKEND**
 
+Spring Boot  
 REST APIs  
-Backend  
 Security
 
 </td>
@@ -485,17 +686,17 @@ Security
 
 ### 🤖
 
-**AI + RAG**
+**AI**
 
 LLMs  
-Embeddings  
-Vector Search
+RAG  
+Embeddings
 
 </td>
 
 <td align="center" width="25%">
 
-### 💼
+### 🚀
 
 **CAREER**
 
@@ -513,23 +714,23 @@ Grow
 
 ---
 
-# 🗺️ LEARNING MAP
+# 🗺️ LEARNING PATH
 
 <div align="center">
 
-`JAVA`
-↓
-`DSA + OOP`
-↓
-`SPRING BOOT`
-↓
-`REST APIs + DATABASE`
-↓
-`SECURITY`
-↓
-`DOCKER`
-↓
-`AI + RAG`
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/DATABASE-336791?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/AI%20%2B%20RAG-8B5CF6?style=for-the-badge"/>
 
 </div>
 
@@ -543,11 +744,11 @@ Grow
 
 <br>
 
-**💜 Every bug is a lesson.**
+💜 **Every bug is a lesson.**
 
-**🚀 Every project is progress.**
+🚀 **Every project is progress.**
 
-**🧠 Every problem makes me better.**
+🧠 **Every problem makes me better.**
 
 </div>
 
@@ -557,44 +758,38 @@ Grow
 
 <div align="center">
 
-### Open to opportunities, collaborations & interesting projects 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Let's+build+something+meaningful+%F0%9F%9A%80;Open+to+opportunities+%26+collaborations+%E2%9C%A8"/>
 
-<br>
+<br><br>
 
 <a href="https://kritikaasinghh.github.io/">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-8B5CF6?style=for-the-badge"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/kritika8070">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
-<a href="https://github.com/KritikaaSinghh">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://leetcode.com/u/kritikaasinghh/">
+<img src="https://img.shields.io/badge/%E2%9A%A1%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:singhkritika8449@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%9C%89%20EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=KritikaaSinghh&style=for-the-badge&color=8B5CF6"/>
-
-<br><br>
-
-### 💜 Turning ideas into software, one project at a time.
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
+### 💜 `BUILDING • LEARNING • GROWING`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0B14&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0B0812&section=footer"/>
+
+</div>
