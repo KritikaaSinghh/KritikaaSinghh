@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0B0618&text=KRITIKA%20SINGH&fontColor=FFFFFF&fontSize=58&fontAlignY=38&animation=twinkling&desc=JAVA%20%7C%20BACKEND%20%7C%20AI%20%7C%20BUILDER&descAlignY=63&descSize=18&descColor=C084FC"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0B0618&text=KRITIKA%20SINGH&fontColor=FFFFFF&fontSize=58&fontAlignY=38&animation=twinkling&desc=JAVA%20%7C%20BACKEND%20%7C%20AI%20%7C%20BUILDER&descAlignY=63&descSize=17&descColor=C084FC"/>
 
 <br><br>
 
@@ -11,7 +11,7 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/☕%20JAVA-A855F7?style=for-the-badge&labelColor=120820"/>
-<img src="https://img.shields.io/badge/🌱%20SPRING%20BOOT-22C55E?style=for-the-badge&labelColor=07140A"/>
+<img src="https://img.shields.io/badge/🌱%20SPRING_BOOT-22C55E?style=for-the-badge&labelColor=07140A"/>
 <img src="https://img.shields.io/badge/⚡%20BACKEND-06B6D4?style=for-the-badge&labelColor=03151A"/>
 <img src="https://img.shields.io/badge/🤖%20AI%20%2B%20RAG-EC4899?style=for-the-badge&labelColor=1A0612"/>
 
@@ -122,7 +122,7 @@ from Spring Boot APIs and database systems to AI-powered applications.
 
 <br>
 
-My main focus:
+### My main focus
 
 <img src="https://img.shields.io/badge/JAVA-A855F7?style=flat-square"/>
 <img src="https://img.shields.io/badge/BACKEND-06B6D4?style=flat-square"/>
@@ -131,7 +131,7 @@ My main focus:
 
 <br><br>
 
-And I'm currently exploring:
+### Currently exploring
 
 <img src="https://img.shields.io/badge/GENERATIVE_AI-EC4899?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG-A855F7?style=flat-square"/>
@@ -189,22 +189,6 @@ And I'm currently exploring:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SPRING_SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JDBC-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SPRING_AI-22C55E?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EMBEDDINGS-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PGVECTOR-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OLLAMA-F97316?style=for-the-badge"/>
-
-<br><br>
-
 <table>
 <tr>
 
@@ -234,6 +218,8 @@ And I'm currently exploring:
 
 `JDBC`
 
+`Hibernate`
+
 </td>
 
 <td width="25%" align="center">
@@ -262,10 +248,28 @@ And I'm currently exploring:
 
 `Embeddings`
 
+`Ollama`
+
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<img src="https://img.shields.io/badge/SPRING_SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SPRING_AI-22C55E?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EMBEDDINGS-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PGVECTOR-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OLLAMA-F97316?style=for-the-badge"/>
 
 </div>
 
@@ -304,7 +308,7 @@ AI-powered career intelligence platform built with
 
 <br>
 
-### ✨ Highlights
+### ✨ FEATURES
 
 📄 Resume PDF ingestion  
 🧠 AI resume analysis  
@@ -316,6 +320,8 @@ AI-powered career intelligence platform built with
 🔒 Local AI with Ollama
 
 <br>
+
+### STACK
 
 `Java` `Spring Boot` `Spring AI`  
 `RAG` `PostgreSQL` `PGVector` `Docker`
@@ -347,11 +353,11 @@ AI-powered career intelligence platform built with
 <br>
 
 Secure URL shortening platform with authentication,
-analytics and persistent storage.
+custom URLs, analytics and persistent storage.
 
 <br>
 
-### ✨ Highlights
+### ✨ FEATURES
 
 🔐 User authentication  
 🔗 Short URL generation  
@@ -359,9 +365,11 @@ analytics and persistent storage.
 📊 Click analytics  
 🗄️ PostgreSQL persistence  
 🔄 Flyway migrations  
-🐳 Dockerized environment
+🐳 Docker setup
 
 <br>
+
+### STACK
 
 `Java` `Spring Boot` `Spring Security`  
 `PostgreSQL` `Flyway` `Thymeleaf`
@@ -395,10 +403,11 @@ analytics and persistent storage.
 
 <br>
 
-Interactive sorting algorithm visualization tool designed
-to make algorithms easier to understand.
+Interactive sorting algorithm visualization tool.
 
 <br>
+
+### ✨ FEATURES
 
 📊 Algorithm visualization  
 ⚡ Adjustable speed  
@@ -406,6 +415,8 @@ to make algorithms easier to understand.
 🎨 Interactive interface
 
 <br>
+
+### STACK
 
 `HTML` `CSS` `JavaScript`
 
@@ -442,7 +453,7 @@ to make algorithms easier to understand.
 <br>
 
 My Java practice space for strengthening programming
-fundamentals and problem-solving.
+fundamentals and problem solving.
 
 <br>
 
@@ -532,33 +543,37 @@ fundamentals and problem-solving.
 <br>
 
 <a href="https://leetcode.com/u/kritikaasinghh/">
-<img src="https://img.shields.io/badge/⚡%20VISIT%20MY%20LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚡%20VISIT%20MY%20LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=171004"/>
 </a>
 
 </div>
 
 ---
 
-# 🌌 CONTRIBUTION CITY
+# 🌌 3D CONTRIBUTION CITY
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CODE-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILD-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEARN-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GROW-22C55E?style=for-the-badge"/>
+<p><code>CODE • BUILD • LEARN • GROW</code></p>
+
+<br>
+
+<img src="https://img.shields.io/badge/01%20CODE-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02%20BUILD-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03%20LEARN-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04%20GROW-22C55E?style=for-the-badge"/>
 
 <br><br>
 
 <img
 src="./profile-3d-contrib/profile-green-animate.svg"
 width="100%"
-alt="3D GitHub Contribution"
+alt="3D GitHub Contribution City"
 />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=700&lines=Every+contribution+tells+a+story+%F0%9F%9A%80;Keep+coding.+Keep+building.+Keep+growing."
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Every+contribution+tells+a+story+%F0%9F%9A%80;Keep+coding.+Keep+building.+Keep+growing."
 />
 
 </div>
@@ -569,27 +584,21 @@ alt="3D GitHub Contribution"
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01%20JAVA-F97316?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/JAVA-F97316?style=for-the-badge&logo=openjdk&logoColor=white"/>
 &nbsp;→&nbsp;
-
-<img src="https://img.shields.io/badge/02%20DSA-8B5CF6?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge"/>
 &nbsp;→&nbsp;
-
-<img src="https://img.shields.io/badge/03%20SPRING%20BOOT-22C55E?style=for-the-badge&logo=springboot&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/SPRING_BOOT-22C55E?style=for-the-badge&logo=springboot&logoColor=white"/>
 &nbsp;→&nbsp;
-
-<img src="https://img.shields.io/badge/04%20BACKEND-06B6D4?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/REST_API-06B6D4?style=for-the-badge"/>
 &nbsp;→&nbsp;
-
-<img src="https://img.shields.io/badge/05%20AI%20%2B%20RAG-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATABASE-6366F1?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/AI%20%2B%20RAG-EC4899?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=700&color=67E8F9&center=true&vCenter=true&width=760&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug;Understand+%E2%86%92+Improve+%E2%86%92+Repeat;Turning+ideas+into+working+software+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Understand;Turn+ideas+into+working+software;Keep+moving+forward+%F0%9F%9A%80"/>
 
 </div>
 
@@ -599,7 +608,7 @@ alt="3D GitHub Contribution"
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=E879F9&center=true&vCenter=true&width=750&lines=Open+to+opportunities+%26+collaborations;Let's+build+something+meaningful+%F0%9F%9A%80;Building+with+passion+%E2%80%A2+Java+%E2%80%A2+AI+%E2%80%A2+Curiosity"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=E879F9&center=true&vCenter=true&width=750&lines=Open+to+opportunities+%26+collaborations;Let's+build+something+meaningful+%F0%9F%9A%80;Always+learning.+Always+building."
 />
 
 <br><br>
@@ -634,10 +643,10 @@ alt="3D GitHub Contribution"
 
 <br><br><br>
 
-<img src="https://img.shields.io/badge/💜%20BUILDING%20WITH%20PASSION%20%7C%20☕%20JAVA%20%7C%20🤖%20AI%20%7C%20🚀%20CURIOSITY-120820?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💜%20BUILDING%20•%20LEARNING%20•%20GROWING-12061D?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0B0618&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=080512&section=footer&animation=twinkling"/>
 
 </div>
