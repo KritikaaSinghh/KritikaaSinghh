@@ -39,6 +39,7 @@
 
 </div>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       ✦ INTRO ✦                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -108,7 +109,9 @@ from <b>Spring Boot APIs</b> and database systems to
 
 </div>
 
+
 <br>
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ✦ TECH STACK ✦                            -->
@@ -139,6 +142,7 @@ from <b>Spring Boot APIs</b> and database systems to
 <img src="https://img.shields.io/badge/OLLAMA-F97316?style=for-the-badge"/>
 
 </div>
+
 
 <br>
 
@@ -207,6 +211,7 @@ AI-powered career intelligence platform built with **Java + Spring Boot**.
 
 </td>
 
+
 <td width="50%" valign="top">
 
 <div align="center">
@@ -251,6 +256,7 @@ Secure URL shortening platform with authentication, analytics and persistent sto
 </td>
 
 </tr>
+
 
 <tr>
 
@@ -298,6 +304,7 @@ Interactive sorting algorithm visualization tool designed to make algorithms eas
 
 </td>
 
+
 <td width="50%" valign="top">
 
 <div align="center">
@@ -342,6 +349,9 @@ My Java practice space for strengthening programming fundamentals and problem-so
 </tr>
 </table>
 
+
+<br>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -359,7 +369,9 @@ My Java practice space for strengthening programming fundamentals and problem-so
 
 <td width="33%" align="center">
 
-### ☕ JAVA
+### ☕
+
+**JAVA**
 
 `Core Java`
 
@@ -371,9 +383,12 @@ My Java practice space for strengthening programming fundamentals and problem-so
 
 </td>
 
+
 <td width="33%" align="center">
 
-### ⚡ PROBLEM SOLVING
+### ⚡
+
+**PROBLEM SOLVING**
 
 `Arrays`
 
@@ -385,9 +400,12 @@ My Java practice space for strengthening programming fundamentals and problem-so
 
 </td>
 
+
 <td width="33%" align="center">
 
-### 🤖 AI EXPLORATION
+### 🤖
+
+**AI EXPLORATION**
 
 `LLMs`
 
@@ -410,23 +428,77 @@ My Java practice space for strengthening programming fundamentals and problem-so
 
 </div>
 
+
+<br>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 ✦ CONTRIBUTION CITY ✦                          -->
+<!--                    ✦ GITHUB ACTIVITY ✦                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h2>🌌 CONTRIBUTION CITY</h2>
+<h2>📡 GITHUB ACTIVITY</h2>
 
 <p>
-<code>CODE • BUILD • LEARN • GROW</code>
+<code>CODE • COMMIT • CONTRIBUTE • REPEAT</code>
 </p>
 
 <br>
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+<!-- GitHub Stats -->
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&hide_border=true&bg_color=0B0618&title_color=C084FC&text_color=E9D5FF&icon_color=22D3EE&ring_color=EC4899&include_all_commits=true&count_private=true&rank_icon=github"
+height="180"
+/>
+
+&nbsp;&nbsp;
+
+<!-- Streak -->
+
+<img
+src="https://streak-stats.demolab.com?user=KritikaaSinghh&hide_border=true&background=0B0618&ring=C084FC&fire=EC4899&currStreakLabel=67E8F9&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=E9D5FF&dates=94A3B8"
+height="180"
+/>
+
+<br><br>
+
+<!-- Top Languages -->
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaaSinghh&layout=compact&hide_border=true&bg_color=0B0618&title_color=67E8F9&text_color=E9D5FF&icon_color=A78BFA&langs_count=8"
+height="170"
+/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/💜%20CONSISTENCY-8B5CF6?style=for-the-badge&labelColor=12091C"/>
+<img src="https://img.shields.io/badge/⚡%20PROBLEM%20SOLVING-06B6D4?style=for-the-badge&labelColor=07161A"/>
+<img src="https://img.shields.io/badge/🚀%20BUILDING-EC4899?style=for-the-badge&labelColor=180A13"/>
+
+<br><br>
+
+<!-- Contribution Graph -->
+
+<h3>🌌 CONTRIBUTION GRAPH</h3>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=KritikaaSinghh&bg_color=0B0618&color=C4B5FD&line=8B5CF6&point=22D3EE&area=true&area_color=4C1D95&hide_border=true&custom_title=Kritika's%20Coding%20Journey"
+width="95%"
+/>
+
+<br><br>
+
+<!-- 3D Contribution City -->
+
+<h3>🏙️ 3D CONTRIBUTION CITY</h3>
+
+<img
+src="./profile-3d-contrib/profile-green-animate.svg"
+width="100%"
+/>
 
 <br><br>
 
@@ -435,7 +507,14 @@ My Java practice space for strengthening programming fundamentals and problem-so
 <img src="https://img.shields.io/badge/LEARN-EC4899?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GROW-22C55E?style=for-the-badge"/>
 
+<br><br>
+
+<code>LEARN → BUILD → DEBUG → IMPROVE → REPEAT</code>
+
 </div>
+
+
+<br>
 
 ---
 
@@ -479,6 +558,9 @@ My Java practice space for strengthening programming fundamentals and problem-so
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0B0618&section=footer&animation=twinkling"/>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0B0618&section=footer&animation=twinkling"
+/>
 
 </div>
