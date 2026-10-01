@@ -46,58 +46,245 @@
 
 ---
 
+<!-- COMPACT PROFILE HEADER -->
+
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="20%">
+<td width="68%" align="left">
 
-### ☕
-**JAVA**
+### 👋 Hey, I'm Kritika Singh
 
-Core + DSA
+> **Java Backend Developer & Software Engineer** building clean, practical and scalable applications with **Java, Spring Boot & REST APIs**, while exploring **Generative AI, RAG & LLMs**.
 
-</td>
+<br>
 
-<td align="center" width="20%">
-
-### 🌱
-**SPRING**
-
-Boot + APIs
+<img src="https://img.shields.io/badge/📍%20LOCATION-Meerut%2C%20Uttar%20Pradesh%2C%20India-8B5CF6?style=for-the-badge&labelColor=10051A"/>
 
 </td>
 
-<td align="center" width="20%">
+<td width="32%" align="center">
 
-### ⚡
-**BACKEND**
+### `CURRENT FOCUS`
 
-Systems + APIs
+<br>
 
-</td>
+🟣 **Java + DSA**
 
-<td align="center" width="20%">
+<br>
 
-### 🤖
-**AI**
+🔵 **Spring Boot**
 
-RAG + LLMs
+<br>
 
-</td>
+🟢 **Backend Systems**
 
-<td align="center" width="20%">
+<br>
 
-### 🚀
-**BUILD**
+💗 **AI + RAG**
 
-Real Projects
+<br>
+
+🔷 **LLMs**
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<img src="https://img.shields.io/badge/BUILD-8B5CF6?style=for-the-badge&labelColor=10051A"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LEARN-06B6D4?style=for-the-badge&labelColor=03151A"/>
+&nbsp;
+<img src="https://img.shields.io/badge/EXPLORE-EC4899?style=for-the-badge&labelColor=1A0612"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GROW-22C55E?style=for-the-badge&labelColor=07140A"/>
+
+</div>
+
+---
+
+<!-- COMPACT TECH STACK STRIP -->
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/☕%20JAVA-A855F7?style=for-the-badge&labelColor=10051A"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/🌱%20SPRING%20BOOT-22C55E?style=for-the-badge&labelColor=07140A"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/🐘%20POSTGRESQL-06B6D4?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=03151A"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/🐳%20DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=03101A"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/🤖%20AI%20%2B%20RAG-EC4899?style=for-the-badge&labelColor=1A0612"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- COMPACT NEON / GLASS STATS ROW -->
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/KritikaaSinghh">
+
+<img src="https://img.shields.io/badge/🐙%20GITHUB-Projects%20%26%20Code-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=10051A"/>
+
+</a>
+
+<br><br>
+
+<sub><b>Java • Backend • AI</b></sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://leetcode.com/u/kritikaasinghh/">
+
+<img src="https://img.shields.io/badge/⚡%20LEETCODE-DSA%20%26%20Problem%20Solving-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=171004"/>
+
+</a>
+
+<br><br>
+
+<sub><b>Practice • Learn • Improve</b></sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🚀%20PROJECTS-Real--World%20Builds-06B6D4?style=for-the-badge&labelColor=03151A"/>
+
+<br><br>
+
+<sub><b>AI Career Copilot • URL Shortener • Sorting Visualizer</b></sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- COMPACT NEON / GLASS FEATURED PROJECTS -->
+
+<div align="center">
+
+<h3>✦ FEATURED BUILDS ✦</h3>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<a href="https://github.com/KritikaaSinghh/AI-Career-Copilot">
+
+<img src="https://img.shields.io/badge/🤖%20AI%20CAREER%20COPILOT-EC4899?style=for-the-badge&labelColor=1A0612"/>
+
+</a>
+
+<br><br>
+
+<sub>
+AI-powered career platform using <b>Spring AI, RAG, PostgreSQL & PGVector</b>.
+</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JAVA-A855F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-EC4899?style=flat-square"/>
+
+</td>
+
+<td width="33%" align="center">
+
+<a href="https://github.com/KritikaaSinghh/kritika-url-shortener">
+
+<img src="https://img.shields.io/badge/🔗%20URL%20SHORTENER-06B6D4?style=for-the-badge&labelColor=03151A"/>
+
+</a>
+
+<br><br>
+
+<sub>
+Secure URL shortening system with <b>Spring Boot, Security, PostgreSQL & analytics</b>.
+</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SPRING_BOOT-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square"/>
+
+</td>
+
+<td width="33%" align="center">
+
+<a href="https://github.com/KritikaaSinghh/Sorting-Visualizer">
+
+<img src="https://img.shields.io/badge/📊%20SORTING%20VISUALIZER-F59E0B?style=for-the-badge&labelColor=171004"/>
+
+</a>
+
+<br><br>
+
+<sub>
+Interactive sorting visualizer with <b>multiple algorithms, speed control & dynamic UI</b>.
+</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/BUILDING%20REAL%20THINGS%20%7C%20ONE%20PROJECT%20AT%20A%20TIME-12061D?style=for-the-badge&labelColor=080512"/>
 
 </div>
 
@@ -643,7 +830,7 @@ alt="3D GitHub Contribution City"
 
 <br><br><br>
 
-<img src="https://img.shields.io/badge/💜%20BUILDING%20•%20LEARNING%20•%20GROWING-12061D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💜%20BUILDING%20•%20LEARNING%20•%20GROWING-12061D?style=for-the-badge&labelColor=080512"/>
 
 <br><br>
 
