@@ -33,6 +33,7 @@
 
 <table>
 <tr>
+
 <td width="68%" valign="middle">
 
 ### 👋 Hey, I'm Kritika Singh
@@ -54,6 +55,7 @@
 🔷 LLMs
 
 </td>
+
 </tr>
 </table>
 
@@ -72,11 +74,27 @@
 
 <table>
 <tr>
-<td><img src="https://img.shields.io/badge/☕%20JAVA-A855F7?style=for-the-badge&labelColor=10051A"/></td>
-<td><img src="https://img.shields.io/badge/🌱%20SPRING%20BOOT-22C55E?style=for-the-badge&labelColor=07140A"/></td>
-<td><img src="https://img.shields.io/badge/🐘%20POSTGRESQL-06B6D4?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=03151A"/></td>
-<td><img src="https://img.shields.io/badge/🐳%20DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=03101A"/></td>
-<td><img src="https://img.shields.io/badge/🤖%20AI%20%2B%20RAG-EC4899?style=for-the-badge&labelColor=1A0612"/></td>
+
+<td>
+<img src="https://img.shields.io/badge/☕%20JAVA-A855F7?style=for-the-badge&labelColor=10051A"/>
+</td>
+
+<td>
+<img src="https://img.shields.io/badge/🌱%20SPRING%20BOOT-22C55E?style=for-the-badge&labelColor=07140A"/>
+</td>
+
+<td>
+<img src="https://img.shields.io/badge/🐘%20POSTGRESQL-06B6D4?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=03151A"/>
+</td>
+
+<td>
+<img src="https://img.shields.io/badge/🐳%20DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=03101A"/>
+</td>
+
+<td>
+<img src="https://img.shields.io/badge/🤖%20AI%20%2B%20RAG-EC4899?style=for-the-badge&labelColor=1A0612"/>
+</td>
+
 </tr>
 </table>
 
@@ -90,6 +108,7 @@
 </a>
 
 <br>
+
 <sub><b>Java • Backend • AI</b></sub>
 
 </td>
@@ -101,6 +120,7 @@
 </a>
 
 <br>
+
 <sub><b>Practice • Learn • Improve</b></sub>
 
 </td>
@@ -110,6 +130,7 @@
 <img src="https://img.shields.io/badge/🚀%20PROJECTS-Real--World%20Builds-06B6D4?style=for-the-badge&labelColor=03151A"/>
 
 <br>
+
 <sub><b>AI Career Copilot • URL Shortener • Sorting Visualizer</b></sub>
 
 </td>
@@ -469,9 +490,11 @@ My Java practice space for strengthening programming fundamentals and problem so
 <a href="https://github.com/KritikaaSinghh/Java-Collection-Framework">
 <img src="https://img.shields.io/badge/COLLECTIONS-A855F7?style=for-the-badge"/>
 </a>
+
 <a href="https://github.com/KritikaaSinghh/Object-Oriented-Programming-OOPs">
 <img src="https://img.shields.io/badge/OOP-8B5CF6?style=for-the-badge"/>
 </a>
+
 <a href="https://github.com/KritikaaSinghh/Arrays-Java">
 <img src="https://img.shields.io/badge/ARRAYS-06B6D4?style=for-the-badge"/>
 </a>
@@ -562,57 +585,82 @@ My Java practice space for strengthening programming fundamentals and problem so
 <div align="center">
 
 <img src="https://img.shields.io/badge/JAVA-F97316?style=for-the-badge&logo=openjdk&logoColor=white"/>
-&nbsp;→&nbsp;
+→
 <img src="https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge"/>
-&nbsp;→&nbsp;
+→
 <img src="https://img.shields.io/badge/SPRING_BOOT-22C55E?style=for-the-badge&logo=springboot&logoColor=white"/>
-&nbsp;→&nbsp;
+→
 <img src="https://img.shields.io/badge/REST_API-06B6D4?style=for-the-badge"/>
-&nbsp;→&nbsp;
+→
 <img src="https://img.shields.io/badge/DATABASE-6366F1?style=for-the-badge"/>
-&nbsp;→&nbsp;
+→
 <img src="https://img.shields.io/badge/AI%20%2B%20RAG-EC4899?style=for-the-badge"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Understand;Turn+ideas+into+working+software;Keep+moving+forward+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Understand;Turn+ideas+into+working+software;Keep+moving+forward+%F0%9F%9A%80"/>
 
 </div>
 
 ---
 
-# 💫 LET'S CONNECT
+<!-- NEON GLASS FOOTER -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=E879F9&center=true&vCenter=true&width=750&lines=Open+to+opportunities+%26+collaborations;Let's+build+something+meaningful+%F0%9F%9A%80;Always+learning.+Always+building."/>
+<table>
+<tr>
+
+<td align="center" width="100%">
+
+<h2>💫 LET'S BUILD SOMETHING MEANINGFUL</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=E879F9&center=true&vCenter=true&width=700&lines=Java+%E2%80%A2+Backend+%E2%80%A2+AI+%E2%80%A2+Builder;Always+learning.+Always+building.+%F0%9F%9A%80;Turning+ideas+into+real-world+software."/>
 
 <br>
 
 <a href="https://kritikaasinghh.github.io/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-A855F7?style=for-the-badge&labelColor=120820"/>
 </a>
 &nbsp;
 <a href="https://github.com/KritikaaSinghh">
-<img src="https://img.shields.io/badge/🐙%20GITHUB-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🐙%20GITHUB-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=03151A"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kritika8070">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03151A"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/kritikaasinghh/">
-<img src="https://img.shields.io/badge/⚡%20LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚡%20LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=171004"/>
 </a>
 &nbsp;
 <a href="mailto:singhkritika8449@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/✉️%20EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0612"/>
 </a>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/💜%20BUILDING%20•%20LEARNING%20•%20GROWING-12061D?style=for-the-badge&labelColor=080512"/>
+<img src="https://img.shields.io/badge/☕%20JAVA-A855F7?style=flat-square&labelColor=10051A"/>
+<img src="https://img.shields.io/badge/🌱%20SPRING%20BOOT-22C55E?style=flat-square&labelColor=07140A"/>
+<img src="https://img.shields.io/badge/⚡%20BACKEND-06B6D4?style=flat-square&labelColor=03151A"/>
+<img src="https://img.shields.io/badge/🤖%20AI%20%2B%20RAG-EC4899?style=flat-square&labelColor=1A0612"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=080512&section=footer&animation=twinkling"/>
+<br>
+
+<code>BUILD • LEARN • SOLVE • GROW</code>
+
+<br>
+
+<sub>Made with ☕ Java, curiosity & lots of debugging.</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0B0618&section=footer&animation=twinkling"/>
 
 </div>
