@@ -19,6 +19,7 @@
 <a href="mailto:singhkritika8449@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+[![View LeetCode Profile](https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kritikaasinghh/)
 
 <br><br>
 
@@ -459,7 +460,6 @@ Grow as a Backend Developer
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-[![View LeetCode Profile](https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kritikaasinghh/)
 
 
 <br><br>
