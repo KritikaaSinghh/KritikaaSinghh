@@ -1,54 +1,108 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=090611&text=KRITIKA%20SINGH&fontColor=FFFFFF&fontSize=58&fontAlignY=38&animation=fadeIn&desc=JAVA%20%7C%20BACKEND%20%7C%20SPRING%20BOOT%20%7C%20AI&descAlignY=62&descSize=17&descColor=A78BFA"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ✦ HERO ✦                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0B0618&text=KRITIKA%20SINGH&fontColor=FFFFFF&fontSize=60&fontAlignY=38&animation=twinkling&desc=JAVA%20%7C%20BACKEND%20%7C%20AI%20%7C%20BUILDER&descAlignY=63&descSize=18&descColor=C4B5FD"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1100&color=67E8F9&center=true&vCenter=true&width=780&lines=Java+Backend+Developer;Building+clean+%26+scalable+applications;Spring+Boot+%E2%80%A2+REST+APIs+%E2%80%A2+PostgreSQL;Exploring+Generative+AI+%E2%80%A2+RAG+%E2%80%A2+LLMs"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=850&lines=Java+Backend+Developer+%F0%9F%92%BB;Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL+%F0%9F%8C%B1;Building+real-world+software+%F0%9F%9A%80;Exploring+Generative+AI+%7C+RAG+%7C+LLMs+%F0%9F%A4%96;Code.+Create.+Learn.+Repeat.+%E2%9C%A8"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/☕%20JAVA-8B5CF6?style=for-the-badge&labelColor=12091C"/>
+<img src="https://img.shields.io/badge/🌱%20SPRING%20BOOT-22C55E?style=for-the-badge&labelColor=0A1710"/>
+<img src="https://img.shields.io/badge/⚡%20BACKEND-06B6D4?style=for-the-badge&labelColor=07151A"/>
+<img src="https://img.shields.io/badge/🤖%20AI%20%2B%20RAG-EC4899?style=for-the-badge&labelColor=1A0814"/>
 
 <br><br>
 
 <a href="https://kritikaasinghh.github.io/">
-<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=100C18"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-A855F7?style=for-the-badge&labelColor=100718"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kritika8070">
-<img src="https://img.shields.io/badge/LINKEDIN-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=08141A"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07131C"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/kritikaasinghh/">
-<img src="https://img.shields.io/badge/LEETCODE-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=12091C"/>
+<img src="https://img.shields.io/badge/⚡%20LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1004"/>
 </a>
 
-<br><br>
+<br><br><br>
 
-<img src="https://img.shields.io/badge/JAVA-181225?style=flat-square&logo=openjdk&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/SPRING_BOOT-181225?style=flat-square&logo=springboot&logoColor=86EFAC"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-181225?style=flat-square&logo=postgresql&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/AI_%2B_RAG-181225?style=flat-square&logoColor=C4B5FD"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
 
 <br><br>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ✦ INTRO ✦                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <table>
 <tr>
-<td width="850" align="center">
 
-### `JAVA BACKEND ENGINEER`
+<td width="62%" valign="top">
 
-**I build practical software with Java & Spring Boot,  
-and explore how AI can make applications smarter.**
+<h2>💜 Hey, I'm Kritika</h2>
+
+<p>
+Computer Science Engineering graduate focused on
+<b>Java Backend Development</b> and
+<b>Software Engineering</b>.
+</p>
+
+<p>
+I like building things that are practical, clean and actually work —
+from <b>Spring Boot APIs</b> and database systems to
+<b>AI-powered applications</b>.
+</p>
 
 <br>
 
-`JAVA` &nbsp; `SPRING BOOT` &nbsp; `REST APIs` &nbsp; `DATABASES` &nbsp; `DOCKER` &nbsp; `AI / RAG`
+<img src="https://img.shields.io/badge/FOCUS-Java%20%26%20DSA-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/BUILDING-Backend-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/EXPLORING-AI-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/LEARNING-RAG-A855F7?style=flat-square"/>
 
 </td>
+
+<td width="38%" align="center">
+
+### `CURRENTLY`
+
+<br>
+
+🟣 **Java + DSA**
+
+<br>
+
+🔵 **Spring Boot**
+
+<br>
+
+🟢 **Backend Systems**
+
+<br>
+
+🩷 **Generative AI**
+
+<br>
+
+🟦 **RAG + LLMs**
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-●%20BUILDING-22C55E?style=for-the-badge&labelColor=07120A"/>
+
+</td>
+
 </tr>
 </table>
 
@@ -57,111 +111,84 @@ and explore how AI can make applications smarter.**
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT + STACK                          -->
+<!--                     ✦ TECH STACK ✦                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `01` &nbsp; ABOUT
-
-<table>
-<tr>
-
-<td width="58%" valign="top">
-
-### Hey, I'm Kritika 👋
-
-Computer Science Engineering graduate focused on **Java Backend Development** and **Software Engineering**.
-
-I enjoy building applications that combine solid backend fundamentals with modern technologies.
-
-Currently focused on:
-
-- ☕ Java & DSA
-- 🌱 Spring Boot & REST APIs
-- 🗄️ PostgreSQL / MySQL / MongoDB
-- 🔐 Spring Security & Authentication
-- 🐳 Docker
-- 🤖 Generative AI, RAG & LLMs
-
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-### `STACK`
-
-<br>
-
-**LANGUAGES**
-
-`Java` `JavaScript` `HTML` `CSS`
-
-<br>
-
-**BACKEND**
-
-`Spring Boot` `Spring Security`  
-`REST APIs` `JDBC` `Hibernate`
-
-<br>
-
-**AI**
-
-`Spring AI` `RAG` `Embeddings`  
-`PGVector` `Ollama`
-
-<br>
-
-**TOOLS**
-
-`Git` `GitHub` `Docker` `Postman`
-
-</td>
-
-</tr>
-</table>
-
-<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,mongodb,docker,git,github,idea,postman"/>
+<h2>⚡ TECH UNIVERSE</h2>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,mongodb,docker,git,github,idea,postman&perline=11"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SPRING%20AI-22C55E?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EMBEDDINGS-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PGVECTOR-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OLLAMA-F97316?style=for-the-badge"/>
 
 </div>
+
+<br>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         PROJECTS                               -->
+<!--                    ✦ FEATURED BUILDS ✦                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `02` &nbsp; SELECTED BUILDS
-
 <div align="center">
+
+<h2>🚀 FEATURED BUILDS</h2>
+
+<p>
+<code>Things I've actually built</code>
+</p>
+
+</div>
+
+<br>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h2 align="center">🤖 AI CAREER COPILOT</h2>
+<div align="center">
 
-<p align="center">
-<code>AI × BACKEND × RAG</code>
-</p>
+<h2>🤖 AI CAREER COPILOT</h2>
 
-AI-powered career intelligence platform built with Java and Spring Boot.
+<img src="https://img.shields.io/badge/AI-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-A855F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/BACKEND-06B6D4?style=flat-square"/>
+
+</div>
 
 <br>
 
-**FEATURES**
+AI-powered career intelligence platform built with **Java + Spring Boot**.
 
-📄 Resume ingestion  
-🧠 AI resume analysis  
-🎯 Resume-job matching  
-💬 RAG resume chat  
-📊 Skill gap analysis  
-🎤 Interview generation  
-🗺️ Career roadmap  
-🔒 Local AI with Ollama
+**✨ Highlights**
+
+- 📄 Resume PDF ingestion
+- 🧠 AI resume analysis
+- 🎯 Resume ↔ Job matching
+- 💬 RAG-powered resume chat
+- 📊 Skill gap analysis
+- 🎤 Interview question generation
+- 🗺️ Personalized career roadmap
+- 🔒 Local AI with Ollama
 
 <br>
 
@@ -173,7 +200,7 @@ AI-powered career intelligence platform built with Java and Spring Boot.
 <div align="center">
 
 <a href="https://github.com/KritikaaSinghh/AI-Career-Copilot">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=12091C"/>
+<img src="https://img.shields.io/badge/↗%20EXPLORE%20PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white&labelColor=180A13"/>
 </a>
 
 </div>
@@ -182,24 +209,29 @@ AI-powered career intelligence platform built with Java and Spring Boot.
 
 <td width="50%" valign="top">
 
-<h2 align="center">🔗 URL SHORTENER</h2>
+<div align="center">
 
-<p align="center">
-<code>SPRING BOOT × SECURITY</code>
-</p>
+<h2>🔗 URL SHORTENER</h2>
 
-Secure URL shortening platform with authentication, analytics and persistent storage.
+<img src="https://img.shields.io/badge/SPRING-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/SECURITY-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/DATABASE-06B6D4?style=flat-square"/>
+
+</div>
 
 <br>
 
-**FEATURES**
+Secure URL shortening platform with authentication, analytics and persistent storage.
 
-🔐 Authentication  
-🔗 Short URLs  
-✨ Custom URLs  
-📊 Click analytics  
-🔄 Flyway migrations  
-🐳 Docker setup
+**✨ Highlights**
+
+- 🔐 User authentication
+- 🔗 Short URL generation
+- ✨ Custom URLs
+- 📊 Click analytics
+- 🗄️ PostgreSQL persistence
+- 🔄 Flyway migrations
+- 🐳 Dockerized environment
 
 <br>
 
@@ -211,7 +243,7 @@ Secure URL shortening platform with authentication, analytics and persistent sto
 <div align="center">
 
 <a href="https://github.com/KritikaaSinghh/kritika-url-shortener">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=08141A"/>
+<img src="https://img.shields.io/badge/↗%20EXPLORE%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=07161A"/>
 </a>
 
 </div>
@@ -224,19 +256,20 @@ Secure URL shortening platform with authentication, analytics and persistent sto
 
 <td width="50%" valign="top">
 
-<h2 align="center">📊 SORTING VISUALIZER</h2>
+<div align="center">
 
-<p align="center">
-<code>ALGORITHMS × VISUALIZATION</code>
-</p>
+<h2>📊 SORTING VISUALIZER</h2>
 
-Interactive web application for visualizing sorting algorithms.
+<img src="https://img.shields.io/badge/ALGORITHMS-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-<br>
-
-`HTML` `CSS` `JavaScript`
+</div>
 
 <br>
+
+Interactive sorting algorithm visualization tool designed to make algorithms easier to understand.
+
+**✨ Includes**
 
 📊 Algorithm visualization  
 ⚡ Adjustable speed  
@@ -245,12 +278,18 @@ Interactive web application for visualizing sorting algorithms.
 
 <br>
 
+`HTML` `CSS` `JavaScript`
+
+<br>
+
 <div align="center">
 
 <a href="https://kritikaasinghh.github.io/Sorting-Visualizer/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡%20LIVE%20DEMO-F59E0B?style=for-the-badge"/>
 </a>
+
 &nbsp;
+
 <a href="https://github.com/KritikaaSinghh/Sorting-Visualizer">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -261,31 +300,41 @@ Interactive web application for visualizing sorting algorithms.
 
 <td width="50%" valign="top">
 
-<h2 align="center">☕ JAVA LAB</h2>
+<div align="center">
 
-<p align="center">
-<code>JAVA × DSA × FUNDAMENTALS</code>
-</p>
+<h2>☕ JAVA LAB</h2>
 
-A collection of Java repositories built while strengthening programming fundamentals and problem solving.
+<img src="https://img.shields.io/badge/OOP-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/JAVA-F97316?style=flat-square&logo=openjdk"/>
+
+</div>
 
 <br>
 
-`OOP` `Collections` `Arrays`  
-`Patterns` `Basic Maths` `Bitwise`
+My Java practice space for strengthening programming fundamentals and problem-solving.
 
-<br><br>
+**🧩 Includes**
+
+`OOP`  
+`Collections`  
+`Arrays`  
+`Patterns`  
+`Basic Maths`  
+`Bitwise Operators`
+
+<br>
 
 <a href="https://github.com/KritikaaSinghh/Java-Collection-Framework">
 <img src="https://img.shields.io/badge/COLLECTIONS-8B5CF6?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/KritikaaSinghh/Object-Oriented-Programming-OOPs">
-<img src="https://img.shields.io/badge/OOP-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-A855F7?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/KritikaaSinghh/Arrays-Java">
-<img src="https://img.shields.io/badge/ARRAYS-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ARRAYS-06B6D4?style=for-the-badge"/>
 </a>
 
 </td>
@@ -293,43 +342,87 @@ A collection of Java repositories built while strengthening programming fundamen
 </tr>
 </table>
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ✦ CODE SPACE ✦                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>🧠 CODE SPACE</h2>
+
+<br>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### ☕ JAVA
+
+`Core Java`
+
+`OOP`
+
+`Collections`
+
+`DSA`
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚡ PROBLEM SOLVING
+
+`Arrays`
+
+`Two Pointers`
+
+`Sorting`
+
+`Hashing`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI EXPLORATION
+
+`LLMs`
+
+`RAG`
+
+`Embeddings`
+
+`Vector Search`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<a href="https://leetcode.com/u/kritikaasinghh/">
+<img src="https://img.shields.io/badge/⚡%20VISIT%20MY%20LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1004"/>
+</a>
+
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB / LEETCODE                           -->
+<!--                 ✦ CONTRIBUTION CITY ✦                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `03` &nbsp; CODE & CONTRIBUTE
 
 <div align="center">
 
-### `PROBLEM SOLVING`
+<h2>🌌 CONTRIBUTION CITY</h2>
 
-<img src="https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ALGORITHMS-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JAVA-A78BFA?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<br><br>
-
-`Arrays` &nbsp; • &nbsp;
-`Two Pointers` &nbsp; • &nbsp;
-`Searching` &nbsp; • &nbsp;
-`Sorting` &nbsp; • &nbsp;
-`Hashing` &nbsp; • &nbsp;
-`Strings` &nbsp; • &nbsp;
-`Collections`
-
-<br><br>
-
-<a href="https://leetcode.com/u/kritikaasinghh/">
-<img src="https://img.shields.io/badge/%E2%9A%A1%20VISIT%20MY%20LEETCODE-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=12091C"/>
-</a>
-
-<br><br><br>
-
-### `3D CONTRIBUTION CITY`
+<p>
+<code>CODE • BUILD • LEARN • GROW</code>
+</p>
 
 <br>
 
@@ -339,57 +432,53 @@ A collection of Java repositories built while strengthening programming fundamen
 
 <img src="https://img.shields.io/badge/CODE-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BUILD-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEARN-A78BFA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GROW-22D3EE?style=for-the-badge"/>
-
-<br><br>
-
-`LEARN → BUILD → DEBUG → IMPROVE`
+<img src="https://img.shields.io/badge/LEARN-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GROW-22C55E?style=for-the-badge"/>
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         CONNECT                                -->
+<!--                         ✦ CONNECT ✦                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `04` &nbsp; LET'S CONNECT
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=67E8F9&center=true&vCenter=true&width=700&lines=Open+to+opportunities+%26+collaborations;Let's+build+something+meaningful."/>
+<h2>💫 LET'S CONNECT</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=720&lines=Open+to+opportunities+%26+collaborations;Let's+build+something+meaningful+%F0%9F%9A%80"/>
 
 <br><br>
 
 <a href="https://kritikaasinghh.github.io/">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=100C18"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-A855F7?style=for-the-badge&labelColor=12091C"/>
 </a>
 
 &nbsp;
 
 <a href="https://github.com/KritikaaSinghh">
-<img src="https://img.shields.io/badge/%F0%9F%90%99%20GITHUB-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=08141A"/>
+<img src="https://img.shields.io/badge/🐙%20GITHUB-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=07161A"/>
 </a>
 
 &nbsp;
 
 <a href="https://www.linkedin.com/in/kritika8070">
-<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0B18"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07131C"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:singhkritika8449@gmail.com">
-<img src="https://img.shields.io/badge/%E2%9C%89%20EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=160A12"/>
+<img src="https://img.shields.io/badge/✉️%20EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=180A13"/>
 </a>
 
 <br><br><br>
 
-`JAVA` &nbsp;•&nbsp; `BACKEND` &nbsp;•&nbsp; `AI` &nbsp;•&nbsp; `BUILDING`
+<img src="https://img.shields.io/badge/BUILDING%20WITH-💜%20PASSION%20%20%7C%20%20☕%20JAVA%20%20%7C%20%20🚀%20CURIOSITY-12091C?style=for-the-badge"/>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=090611&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0B0618&section=footer&animation=twinkling"/>
 
 </div>
