@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,25:2E1065,55:7C3AED,80:C026D3,100:EC4899&height=240&section=header&text=KRITIKA%20SINGH&fontSize=55&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%E2%9C%A6%20JAVA%20%E2%9C%A6%20AI%20ENTHUSIAST&descSize=14&descAlignY=58" alt="Kritika Singh purple neon banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,25:2E1065,55:7C3AED,80:C026D3,100:EC4899&height=240&section=header&text=KRITIKA%20SINGH&fontSize=55&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%E2%9C%A6%20JAVA%20%E2%9C%A6%20AI%20ENTHUSIAST&descSize=14&descAlignY=58" alt="Purple neon developer banner"/>
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <a href="https://kritikaasinghh.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=10051D" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kritika8070/"><img src="https://img.shields.io/badge/LINKEDIN-DB2777?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10051D" alt="LinkedIn"/></a>
-<a href="https://github.com/KritikaaSinghh"><img src="https://img.shields.io/badge/GITHUB-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="GitHub"/></a>
+<a href="https://github.com/KritikaaSinghh"><img src="https://img.shields.io/badge/GITHUB-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="GitHub profile"/></a>
 
 <br/><br/>
 
@@ -44,8 +44,6 @@ I'm a Computer Science Engineering graduate passionate about **Java, backend dev
 - 🚀 Learning by building practical projects
 
 My goal is to transform ideas into useful, reliable software — one project at a time.
-
-<br/>
 
 **Currently focused on**
 
@@ -104,9 +102,7 @@ My goal is to transform ideas into useful, reliable software — one project at 
 <td width="50%" valign="top">
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:2E1065,100:7C3AED&text=01%20%2F%20URL%20SHORTENER&fontSize=18&fontColor=FFFFFF" alt="URL Shortener banner"/>
-
 </div>
 
 ### 🔗 URL Shortener
@@ -119,15 +115,13 @@ A web application that converts long URLs into short, shareable links.
 
 <br/>
 
-<a href="https://github.com/KritikaaSinghh/kritika-url-shortener"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="URL Shortener source code"/></a>
+<a href="https://github.com/KritikaaSinghh/kritika-url-shortener"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="URL Shortener repository"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:701A75,100:DB2777&text=02%20%2F%20SORTING%20VISUALIZER&fontSize=17&fontColor=FFFFFF" alt="Sorting Visualizer banner"/>
-
 </div>
 
 ### 📊 Sorting Visualizer
@@ -148,9 +142,7 @@ An interactive visualisation that demonstrates how sorting algorithms work step 
 <td colspan="2" valign="top">
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:4C1D95,50:7C3AED,100:DB2777&text=03%20%2F%20AI%20CAREER%20COPILOT&fontSize=21&fontColor=FFFFFF" alt="AI Career Copilot banner"/>
-
 </div>
 
 ### 🤖 AI Career Copilot
@@ -180,35 +172,23 @@ An AI-focused career assistant for resume analysis, job matching, resume Q&A, in
 <table>
 <tr>
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" alt="Java"/>
-
-**Java**
-
+<br/>**Java**
 </td>
 <td align="center">→</td>
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" alt="Spring Boot"/>
-
-**Spring Boot**
-
+<br/>**Spring Boot**
 </td>
 <td align="center">→</td>
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL"/>
-
-**Databases**
-
+<br/>**Databases**
 </td>
 <td align="center">→</td>
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker"/>
-
-**Deployment**
-
+<br/>**Deployment**
 </td>
 </tr>
 </table>
