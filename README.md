@@ -1,27 +1,29 @@
 
+<!-- ═════════ KRITIKA SINGH | PURPLE NEON DEVELOPER ═════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090014,25:2E1065,60:7C3AED,100:EC4899&text=KRITIKA%20SINGH&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=JAVA%20%20%7C%20%20BACKEND%20%20%7C%20%20AI&descSize=17&descAlignY=58&stroke=C084FC&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0014,20:2E1065,50:7C3AED,80:C026D3,100:EC4899&height=250&section=header&text=KRITIKA%20SINGH&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=JAVA%20DEVELOPER%20%20✦%20%20BACKEND%20ENGINEER%20%20✦%20%20AI%20ENTHUSIAST&descSize=14&descAlignY=58" alt="Purple animated header"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=D8B4FE&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+universe+%E2%9C%A8;Java+Developer+in+the+making+%F0%9F%92%9C;Building+Backends+%26+AI-powered+ideas+%F0%9F%A4%96;Turning+Coffee+into+Code+%E2%98%95;Dream+Big.+Build+Beautiful.+Repeat.+%F0%9F%9A%80" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=D8B4FE&center=true&vCenter=true&width=750&lines=Welcome+to+my+digital+universe+%F0%9F%92%9C;Java+%7C+Spring+Boot+%7C+Backend+Development;Building+ideas+into+real-world+projects+%E2%9C%A8;Exploring+AI%2C+LLMs+%26+intelligent+automation+%F0%9F%A4%96;Learn.+Build.+Evolve.+Repeat.+%F0%9F%9A%80" alt="Animated typing introduction"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://kritikaasinghh.github.io/">
-<img src="https://img.shields.io/badge/✦_EXPLORE_MY_PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=140A26" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/✦_PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=10051D" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/kritika8070/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-EC4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=140A26" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-DB2777?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10051D" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/KritikaaSinghh">
-<img src="https://img.shields.io/badge/ENTER_MY_GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=140A26" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,git&theme=dark" alt="Java, Spring, PostgreSQL, MongoDB, Docker and Git"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,git&theme=dark" alt="Core technology icons"/>
 
 </div>
 
@@ -29,9 +31,9 @@
 
 <div align="center">
 
-## ◈ BEYOND THE CODE ◈
+## ⟡ ABOUT THE DEVELOPER ⟡
 
-*Not just writing code — creating things that matter.*
+*Curiosity in mind. Creativity in code. Purple in everything.* 💜
 
 </div>
 
@@ -39,28 +41,26 @@
 <tr>
 <td width="58%" valign="top">
 
-### 🦋 A little about me
+### Hey, I'm Kritika! 👋
 
-Hey, I'm **Kritika** — a Computer Science graduate who loves backend development, solving problems, and exploring AI.
+I'm a Computer Science Engineering graduate passionate about **backend development, Java and AI-powered applications**.
 
-- 💜 Building with **Java & Spring Boot**
-- 🌌 Exploring **AI, LLMs & intelligent applications**
-- ⚡ Learning by creating real-world projects
-- 🧩 Improving my DSA and problem-solving skills
-- 🚀 Turning ambitious ideas into working software
+- 💻 Developing with Java and Spring Boot
+- ⚙️ Learning REST APIs and database design
+- 🤖 Exploring AI, LLMs and intelligent automation
+- 🧠 Practising DSA and problem-solving
+- 🌱 Growing through projects and open source
+
+My goal is to turn complex ideas into useful, reliable software — one commit at a time.
 
 </td>
-<td width="42%" valign="top">
+<td width="42%" align="center" valign="middle">
 
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer coding"/>
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding scene"/>
 
-<div align="center">
+<br/>
 
-**CURRENT MODE**
-
-`BUILDING` ✦ `LEARNING` ✦ `EVOLVING`
-
-</div>
+<img src="https://img.shields.io/badge/CURRENT_MODE-BUILDING%20%26%20LEARNING-7C3AED?style=flat-square&labelColor=10051D" alt="Building and learning"/>
 
 </td>
 </tr>
@@ -70,16 +70,24 @@ Hey, I'm **Kritika** — a Computer Science graduate who loves backend developme
 
 <div align="center">
 
-## ✧ MY TECH GALAXY ✧
+## ✦ MY TECH GALAXY ✦
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgres,mongodb,docker,git,github,idea,postman&perline=7&theme=dark" alt="Technology icons"/>
+*Tools I use, technologies I'm learning, and ideas I'm exploring.*
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,spring,postgres,mysql,mongodb&theme=dark&perline=8" alt="Languages, backend and databases"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CORE-Java%20%7C%20OOP%20%7C%20DSA-7C3AED?style=flat-square&labelColor=10051D"/>
-<img src="https://img.shields.io/badge/BACKEND-Spring%20Boot%20%7C%20REST-9333EA?style=flat-square&labelColor=10051D"/>
-<img src="https://img.shields.io/badge/DATABASE-SQL%20%7C%20MongoDB-DB2777?style=flat-square&labelColor=10051D"/>
-<img src="https://img.shields.io/badge/EXPLORING-AI%20%7C%20RAG%20%7C%20LLMs-A855F7?style=flat-square&labelColor=10051D"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman&theme=dark&perline=6" alt="Developer tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CORE-Java%20%7C%20OOP%20%7C%20DSA-7C3AED?style=flat-square&labelColor=10051D" alt="Core skills"/>
+<img src="https://img.shields.io/badge/BACKEND-Spring%20Boot%20%7C%20REST-9333EA?style=flat-square&labelColor=10051D" alt="Backend skills"/>
+<img src="https://img.shields.io/badge/DATABASE-SQL%20%7C%20MongoDB-DB2777?style=flat-square&labelColor=10051D" alt="Database skills"/>
+<img src="https://img.shields.io/badge/EXPLORING-AI%20%7C%20RAG%20%7C%20LLMs-A855F7?style=flat-square&labelColor=10051D" alt="AI interests"/>
 
 </div>
 
@@ -87,9 +95,9 @@ Hey, I'm **Kritika** — a Computer Science graduate who loves backend developme
 
 <div align="center">
 
-## 🚀 WORLDS I'M BUILDING
+## 🚀 PROJECTS FROM MY UNIVERSE
 
-*Every project is a new universe.*
+*Three ideas. Three different challenges. One journey of building.*
 
 </div>
 
@@ -97,35 +105,47 @@ Hey, I'm **Kritika** — a Computer Science graduate who loves backend developme
 <tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:2E1065,100:7C3AED&text=01%20%2F%20URL%20SHORTENER&fontSize=19&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" />
+<div align="center">
 
-### 🔗 Links, simplified.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:2E1065,100:7C3AED&text=01%20%2F%20URL%20SHORTENER&fontSize=19&fontColor=FFFFFF" alt="URL Shortener card"/>
 
-A web application built to transform long URLs into shorter, shareable links.
+</div>
 
-**Built with**
+### 🔗 Short links, simpler sharing
+
+A web application that converts long URLs into shorter, shareable links.
+
+**Technology stack**
 
 `Java` `Spring Boot` `Thymeleaf` `PostgreSQL` `Docker`
 
+<br/>
+
 <a href="https://github.com/KritikaaSinghh/kritika-url-shortener">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=140A26" alt="Explore URL Shortener"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="View URL Shortener source"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:701A75,100:DB2777&text=02%20%2F%20SORTING%20VISUALIZER&fontSize=17&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" />
+<div align="center">
 
-### 📊 Algorithms in motion.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:701A75,100:DB2777&text=02%20%2F%20SORTING%20VISUALIZER&fontSize=17&fontColor=FFFFFF" alt="Sorting Visualizer card"/>
 
-An interactive visual experience that makes sorting algorithms easier to understand.
+</div>
 
-**Built with**
+### 📊 Algorithms in motion
+
+An interactive project that makes sorting algorithms easier to understand through visualisation.
+
+**Technology stack**
 
 `HTML` `CSS` `JavaScript` `Algorithms`
 
+<br/>
+
 <a href="https://kritikaasinghh.github.io/Sorting-Visualizer/">
-<img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-F472B6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=140A26" alt="Launch Sorting Visualizer"/>
+<img src="https://img.shields.io/badge/TRY_LIVE_DEMO-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=10051D" alt="Try Sorting Visualizer"/>
 </a>
 
 </td>
@@ -133,17 +153,21 @@ An interactive visual experience that makes sorting algorithms easier to underst
 <tr>
 <td colspan="2" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:4C1D95,50:7C3AED,100:DB2777&text=03%20%2F%20AI%20CAREER%20COPILOT&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" />
+<div align="center">
 
-### 🤖 Your career, powered by AI.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:4C1D95,50:7C3AED,100:DB2777&text=03%20%2F%20AI%20CAREER%20COPILOT&fontSize=22&fontColor=FFFFFF" alt="AI Career Copilot card"/>
 
-An AI-powered career assistant concept for resume analysis, job matching, resume Q&A, interview preparation and personalized career roadmaps.
+</div>
+
+### 🤖 Your career, assisted by AI
+
+An AI-powered career assistant concept for resume analysis, job matching, resume Q&A, interview preparation and personalised career roadmaps.
 
 **Planned project stack**
 
 `Java` `Spring Boot` `Spring AI` `LLM APIs` `RAG` `PostgreSQL` `PGVector` `Docker`
 
-<sub>Repository link to be added when available.</sub>
+<sub>Project repository link can be added here when available.</sub>
 
 </td>
 </tr>
@@ -153,14 +177,39 @@ An AI-powered career assistant concept for resume analysis, job matching, resume
 
 <div align="center">
 
-## 🌠 MY GITHUB DIMENSION
+## 🌌 MY GITHUB UNIVERSE
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&hide_border=true&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF&icon_color=F472B6&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaaSinghh&layout=compact&hide_border=true&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF" alt="Most used languages"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=My%20Code.%20My%20Journey.&fontSize=28&fontColor=C084FC&fontAlign=50&animation=fadeIn" width="100%" alt="My Code My Journey"/>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&hide_border=true&bg_color=10051D&title_color=D8B4FE&text_color=F3E8FF&icon_color=F472B6&rank_icon=github" width="100%" alt="GitHub overview"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaaSinghh&layout=donut&hide_border=true&bg_color=10051D&title_color=D8B4FE&text_color=F3E8FF&langs_count=6" width="100%" alt="Language distribution"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=KritikaaSinghh&hide_border=true&background=10051D&ring=C084FC&fire=F472B6&currStreakLabel=D8B4FE&sideLabels=D8B4FE&currStreakNum=FFFFFF&sideNums=F3E8FF&dates=A78BFA" width="85%" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=KritikaaSinghh&hide_border=true&background=0D0618&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA" alt="Contribution streak"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-7C3AED?style=for-the-badge&labelColor=10051D" alt="Always learning"/>
+<img src="https://img.shields.io/badge/FOCUS-JAVA%20%2B%20AI-DB2777?style=for-the-badge&labelColor=10051D" alt="Java and AI focus"/>
+
+<br/><br/>
+
+*Every commit is a little step toward something bigger.* ✨
 
 </div>
 
@@ -170,11 +219,9 @@ An AI-powered career assistant concept for resume analysis, job matching, resume
 
 ## 💫 THE NEXT COMMIT
 
-<img width="65%" src="https://capsule-render.vercel.app/api?type=blur&height=150&color=0:2E1065,50:7C3AED,100:DB2777&text=Dream.%20Design.%20Develop.&fontSize=27&fontColor=FFFFFF&animation=fadeIn" alt="Dream Design Develop"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,35:7C3AED,70:4C1D95,100:0B0014&height=180&section=footer&text=Dream.%20Design.%20Develop.&fontSize=30&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" alt="Dream Design Develop footer"/>
 
-*“She believed she could build it — so she learned how.”* 💜
-
-<br/>
+**Thanks for visiting my digital universe.** 💜
 
 <a href="https://github.com/KritikaaSinghh">GITHUB</a>
 &nbsp; ✦ &nbsp;
@@ -184,6 +231,6 @@ An AI-powered career assistant concept for resume analysis, job matching, resume
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:090014&height=130&section=footer" alt="Purple animated footer"/>
+<sub>Built with curiosity, caffeine and a little purple magic ✨</sub>
 
 </div>
