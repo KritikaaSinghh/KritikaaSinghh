@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,25:2E1065,55:7C3AED,80:C026D3,100:EC4899&height=240&section=header&text=KRITIKA%20SINGH&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%E2%9C%A6%20JAVA%20%E2%9C%A6%20AI%20ENGINEER%20IN%20PROGRESS&descSize=14&descAlignY=59" alt="Purple neon developer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,25:2E1065,55:7C3AED,80:C026D3,100:EC4899&height=240&section=header&text=KRITIKA%20SINGH&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%E2%9C%A6%20JAVA%20%E2%9C%A6%20AI%20ENTHUSIAST&descSize=14&descAlignY=59" alt="Purple neon developer banner"/>
 
 <br/>
 
@@ -54,7 +54,7 @@ My goal is to transform ideas into useful, reliable software — one project at 
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img width="100%" src="./developer-girl.png" alt="Female IT developer working at multiple monitors in a purple neon coding workspace"/>
+<img width="100%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Woman coding at her computer"/>
 
 <br/>
 
@@ -155,7 +155,7 @@ An interactive visualisation that demonstrates how sorting algorithms work step 
 
 ### 🤖 AI Career Copilot
 
-An AI-focused career assistance project exploring resume analysis, job matching, resume Q&A, interview preparation and personalised career guidance.
+An AI-focused career assistant for resume analysis, job matching, resume Q&A, interview preparation and personalised career guidance.
 
 **Tech stack**
 
@@ -193,12 +193,6 @@ An AI-focused career assistance project exploring resume analysis, job matching,
 </td>
 </tr>
 </table>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KritikaaSinghh&theme=midnight_purple&utcOffset=5.5" width="49%" alt="GitHub productive time"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KritikaaSinghh&theme=midnight_purple" width="49%" alt="Repository language summary"/>
 
 <br/><br/>
 
