@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0014,20:2E1065,50:7C3AED,80:C026D3,100:EC4899&height=250&section=header&text=KRITIKA%20SINGH&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=JAVA%20DEVELOPER%20%20✦%20%20BACKEND%20ENGINEER%20%20✦%20%20AI%20ENTHUSIAST&descSize=14&descAlignY=58" alt="Purple animated header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0014,20:2E1065,50:7C3AED,80:C026D3,100:EC4899&height=250&section=header&text=KRITIKA%20SINGH&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=JAVA%20DEVELOPER%20%20%E2%9C%A6%20%20BACKEND%20ENGINEER%20%20%E2%9C%A6%20%20AI%20ENTHUSIAST&descSize=14&descAlignY=58" alt="Purple animated header"/>
 
 <br/>
 
@@ -47,7 +47,7 @@ My goal is to turn complex ideas into useful, reliable software — one commit a
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img width="100%" src="./developer-girl.png" alt="Girl developer coding in a purple neon workspace"/>
+<img width="100%" src="https://gifdb.com/images/high/aesthetic-anime-girl-facing-computer-rpb8a4tncak5lrke.gif" alt="Girl coding at her computer in an aesthetic workspace"/>
 
 <br/>
 
@@ -172,23 +172,30 @@ An AI-powered career assistant for resume analysis, job matching, resume Q&A, in
 
 <div align="center">
 
-## 🌌 MY GITHUB UNIVERSE
+## 🌙 MY GITHUB UNIVERSE
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=My%20Code.%20My%20Journey.&fontSize=28&fontColor=C084FC&fontAlign=50&animation=fadeIn" width="100%" alt="My Code My Journey"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KritikaaSinghh&bg_color=10051D&color=D8B4FE&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Coding%20Galaxy" width="100%" alt="GitHub contribution activity graph"/>
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&hide_border=true&bg_color=10051D&title_color=D8B4FE&text_color=F3E8FF&icon_color=F472B6&rank_icon=github" width="100%" alt="GitHub overview"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaaSinghh&layout=donut&hide_border=true&bg_color=10051D&title_color=D8B4FE&text_color=F3E8FF&langs_count=6" width="100%" alt="Language distribution"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KritikaaSinghh&theme=midnight_purple" width="100%" alt="GitHub profile summary"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&hide_border=true&bg_color=10051D&title_color=D8B4FE&text_color=F3E8FF&icon_color=F472B6&rank_icon=github" width="49%" alt="GitHub overview"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaaSinghh&layout=donut&hide_border=true&bg_color=10051D&title_color=D8B4FE&text_color=F3E8FF&langs_count=6" width="49%" alt="Language distribution"/>
 
 <br/><br/>
 
