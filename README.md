@@ -1,6 +1,3 @@
-
-<!-- ═════════ KRITIKA SINGH | PURPLE NEON DEVELOPER ═════════ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0014,20:2E1065,50:7C3AED,80:C026D3,100:EC4899&height=250&section=header&text=KRITIKA%20SINGH&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=JAVA%20DEVELOPER%20%20✦%20%20BACKEND%20ENGINEER%20%20✦%20%20AI%20ENTHUSIAST&descSize=14&descAlignY=58" alt="Purple animated header"/>
@@ -11,15 +8,9 @@
 
 <br/><br/>
 
-<a href="https://kritikaasinghh.github.io/">
-<img src="https://img.shields.io/badge/✦_PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=10051D" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/kritika8070/">
-<img src="https://img.shields.io/badge/LINKEDIN-DB2777?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10051D" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/KritikaaSinghh">
-<img src="https://img.shields.io/badge/GITHUB-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="GitHub"/>
-</a>
+<a href="https://kritikaasinghh.github.io/"><img src="https://img.shields.io/badge/✦_PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=10051D" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/kritika8070/"><img src="https://img.shields.io/badge/LINKEDIN-DB2777?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10051D" alt="LinkedIn"/></a>
+<a href="https://github.com/KritikaaSinghh"><img src="https://img.shields.io/badge/GITHUB-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="GitHub"/></a>
 
 <br/><br/>
 
@@ -56,7 +47,7 @@ My goal is to turn complex ideas into useful, reliable software — one commit a
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding scene"/>
+<img width="100%" src="./developer-girl.png" alt="Girl developer coding in a purple neon workspace"/>
 
 <br/>
 
@@ -161,13 +152,17 @@ An interactive project that makes sorting algorithms easier to understand throug
 
 ### 🤖 Your career, assisted by AI
 
-An AI-powered career assistant concept for resume analysis, job matching, resume Q&A, interview preparation and personalised career roadmaps.
+An AI-powered career assistant for resume analysis, job matching, resume Q&A, interview preparation and personalised career roadmaps.
 
-**Planned project stack**
+**Technology stack**
 
 `Java` `Spring Boot` `Spring AI` `LLM APIs` `RAG` `PostgreSQL` `PGVector` `Docker`
 
-<sub>Project repository link can be added here when available.</sub>
+<br/>
+
+<a href="https://github.com/KritikaaSinghh/AI-Career-Copilot">
+<img src="https://img.shields.io/badge/EXPLORE_AI_CAREER_COPILOT-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="Explore AI Career Copilot repository"/>
+</a>
 
 </td>
 </tr>
@@ -183,24 +178,17 @@ An AI-powered career assistant concept for resume analysis, job matching, resume
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&hide_border=true&bg_color=10051D&title_color=D8B4FE&text_color=F3E8FF&icon_color=F472B6&rank_icon=github" width="100%" alt="GitHub overview"/>
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaaSinghh&layout=donut&hide_border=true&bg_color=10051D&title_color=D8B4FE&text_color=F3E8FF&langs_count=6" width="100%" alt="Language distribution"/>
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KritikaaSinghh&bg_color=10051D&color=D8B4FE&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Coding%20Galaxy" width="100%" alt="GitHub contribution activity graph"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=KritikaaSinghh&hide_border=true&background=10051D&ring=C084FC&fire=F472B6&currStreakLabel=D8B4FE&sideLabels=D8B4FE&currStreakNum=FFFFFF&sideNums=F3E8FF&dates=A78BFA" width="85%" alt="GitHub contribution streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KritikaaSinghh&theme=midnight_purple" width="100%" alt="GitHub profile summary"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&hide_border=true&bg_color=10051D&title_color=D8B4FE&text_color=F3E8FF&icon_color=F472B6&rank_icon=github" width="49%" alt="GitHub overview"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaaSinghh&layout=donut&hide_border=true&bg_color=10051D&title_color=D8B4FE&text_color=F3E8FF&langs_count=6" width="49%" alt="Language distribution"/>
 
 <br/><br/>
 
