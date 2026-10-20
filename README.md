@@ -10,6 +10,7 @@
 <a href="https://kritikaasinghh.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=10051D" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kritika8070/"><img src="https://img.shields.io/badge/LINKEDIN-DB2777?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10051D" alt="LinkedIn"/></a>
 <a href="https://github.com/KritikaaSinghh"><img src="https://img.shields.io/badge/GITHUB-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/kritikaasinghh/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=10051D" alt="LeetCode"/></a>
 
 <br/><br/>
 
