@@ -289,7 +289,9 @@ A full-stack personal journaling application built using Java and Spring Boot. U
 <a href="https://github.com/KritikaaSinghh">
 <img src="https://img.shields.io/badge/GITHUB-KritikaaSinghh-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="GitHub Profile"/>
 </a>
-
+<a href="https://leetcode.com/u/kritikaasinghh/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=10051D" alt="LeetCode Profile"/>
+</a>
 <a href="https://github.com/KritikaaSinghh?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-DB2777?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="Explore Projects"/>
 </a>
