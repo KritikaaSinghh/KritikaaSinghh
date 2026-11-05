@@ -165,7 +165,44 @@ An AI-powered career assistant focused on resume analysis, job matching, resume 
 </tr>
 </table>
 
----
+<tr>
+<td colspan="2" valign="top">
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:312E81,50:7C3AED,100:DB2777&text=04%20%2F%20JOURNAL%20APP&fontSize=21&fontColor=FFFFFF" alt="Journal App banner"/>
+</div>
+
+### 📔 Journal App
+
+A full-stack personal journaling application built using Java and Spring Boot. Users can create and manage journal entries, track daily moods, organize memories, explore mood analytics, and manage their personal journaling activities through an interactive dashboard.
+
+**Features**
+
+- 🔐 User Registration and Login
+- 📝 Journal Entry CRUD Operations
+- 😊 Mood Tracking and Analytics
+- 🏷️ Categories and Tags
+- 🔍 Search and Filtering
+- ⭐ Favorites and Memories
+- 📅 Interactive Calendar
+- 🌙 Light and Dark Mode
+
+**Tech stack**
+
+`Java` `Spring Boot` `Spring Security` `Spring Data MongoDB` `MongoDB` `HTML` `CSS` `JavaScript` `Maven`
+
+<br/>
+
+<a href="https://github.com/KritikaaSinghh/journal-app">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="Journal App repository"/>
+</a>
+
+<a href="https://github.com/KritikaaSinghh/journal-app#screenshots">
+<img src="https://img.shields.io/badge/VIEW_SCREENSHOTS-DB2777?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="Journal App screenshots"/>
+</a>
+
+</td>
+</tr>
 
 <div align="center">
 
