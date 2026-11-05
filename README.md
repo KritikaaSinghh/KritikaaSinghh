@@ -284,25 +284,21 @@ A full-stack personal journaling application built using Java and Spring Boot. U
 
 *Every repository is another step forward.*
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KritikaaSinghh&show_icons=true&hide_border=true&bg_color=10051D&title_color=D8B4FE&text_color=F3E8FF&icon_color=F472B6&rank_icon=github" width="100%" alt="GitHub statistics"/>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaaSinghh&layout=donut&hide_border=true&bg_color=10051D&title_color=D8B4FE&text_color=F3E8FF&langs_count=6" width="100%" alt="Top programming languages"/>
-
-</td>
-</tr>
-</table>
-
 <br/>
 
+<a href="https://github.com/KritikaaSinghh">
+<img src="https://img.shields.io/badge/GITHUB-KritikaaSinghh-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="GitHub Profile"/>
+</a>
+
+<a href="https://github.com/KritikaaSinghh?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-DB2777?style=for-the-badge&logo=github&logoColor=white&labelColor=10051D" alt="Explore Projects"/>
+</a>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-7C3AED?style=for-the-badge&labelColor=10051D" alt="Always learning"/>
-<img src="https://img.shields.io/badge/FOCUS-JAVA%20%2B%20BACKEND-DB2777?style=for-the-badge&labelColor=10051D" alt="Java backend focus"/>
+<img src="https://img.shields.io/badge/FOCUS-JAVA%20%2B%20BACKEND-DB2777?style=for-the-badge&labelColor=10051D" alt="Java Backend"/>
+<img src="https://img.shields.io/badge/EXPLORING-AI%20%2B%20LLMs-A855F7?style=for-the-badge&labelColor=10051D" alt="AI and LLMs"/>
 
 <br/><br/>
 
@@ -310,7 +306,6 @@ A full-stack personal journaling application built using Java and Spring Boot. U
 
 </div>
 
----
 
 <div align="center">
 
